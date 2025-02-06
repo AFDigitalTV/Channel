@@ -2044,12 +2044,6 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
 
 
 
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1723627450000&quality=70",DAZN 1 DE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium426/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://iili.io/JmoIfF2.png" group-title="LIGA INGGRIS",ESPN Latin America
@@ -2230,13 +2224,6 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1519
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
 
 
-#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1723627450000&quality=70",DAZN 1 DE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium426/index.m3u8
-
-
-
 
 
 
@@ -2395,16 +2382,6 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1529
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1526
 
 
-
-#EXTINF:-1 group-title="LIGA ARAB" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=12dpnhddhmpm71228raanhyxs2_image-header_pDach_1723627450000&quality=70",DAZN 1 DE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://ntuplay.xyz/
-https://xyzdddd.mizhls.ru/lb/premium426/index.m3u8
-
-
-
-#EXTINF:-1 tvg-id="5210" tvg-name="DAZN SPORT 1 BAR  DE" tvg-logo="" group-title="LIGA ARAB" ,DAZN SPORT 1 BAR  DE
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/5210
 
 
 
