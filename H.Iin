@@ -34,16 +34,16 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd|
 
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="Indonesia",SCTV (DENSTV)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xmVzkKw/SCTV.png" group-title="Indonesia",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="Indonesia",INDOSIAR (DENSTV)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="Indonesia",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-
+https://tv.cyev.my.id:443/play/BwpPb-k0GHJfyLF0_SBKthCwbqf7ktf0LcCpojVQE4A/ts
 
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="Indonesia", MOJI TV
@@ -1090,9 +1090,6 @@ https://mui.siar.us/mui/live/playlist.m3u8
 
 
 
-
-
-
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/bv4DVQN/Aswaja.png"group-title="RELIGI",ASWAJA TV
 https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
@@ -1170,7 +1167,8 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 https://streaming.yufid.com/hls/artvisi.m3u8
 
 
-
+#EXTINF:-1 group-title="RELIGI"  tvg-logo="https://i.ibb.co.com/6JTJfLT/deikids.png",DEI KIDS TV
+http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 
 
 
@@ -1805,6 +1803,9 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 
+#EXTINF:-1 group-title="SPORTS INDO" tvg-id="" tvg-logo="",SBS Sport
+http://iptv12k.com:35461/live/654321/123456/3214.m3u8
+
 
 ============SPORTS=============
 ============SPORTS=============
@@ -1834,7 +1835,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 
 
 
-#EXTINF:-1 tvg-id="701" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORTS" tvg-logo=" https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png ",Unifi Sports 1
+#EXTINF:-1 tvg-id="unifi" group-title="SPORTS" tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png",Unifi Sports 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064/?deviceId=Y2M1YzUwMTEtMWYxYi0zYjAxLTg2M2YtZjJmZTA2MWIyM2Nh
 https://unifi-live11.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -2028,23 +2029,13 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1488
 
 
 
-#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="LIGA INGGRIS",ESPN TV BRASIL
-https://super-cdn.link/espn/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://iili.io/JmoI2nf.png" group-title="LIGA INGGRIS",ESPN 2 TV BRASIL
-https://super-cdn.link/espn2/index.m3u8
- 
-#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://iili.io/Jmoudrl.png" group-title="LIGA INGGRIS",ESPN 3 TV BRASIL
-https://super-cdn.link/espn3/index.m3u8
- 
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://iili.io/JmouJ14.png" group-title="LIGA INGGRIS",ESPN 4 TV BRASIL
-https://super-cdn.link/espn4/index.m3u8
 
 
-#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="" group-title="LIGA INGGRIS" ,Sky Sport Premier League
+#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="https://i.ibb.co.com/8LDzZzWC/Skysport-PL.png" group-title="LIGA INGGRIS" ,Sky Sport PL FHD
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
 
-#EXTINF:-1 tvg-id="1487" tvg-name="Skx Sport 1 DE FHD" tvg-logo="" group-title="LIGA INGGRIS" ,Sky Sport 1 DE FHD
+
+#EXTINF:-1 tvg-id="1487" tvg-name="Skx Sport 1 DE FHD" tvg-logo="https://i.ibb.co.com/8LDzZzWC/Skysport-PL.png" group-title="LIGA INGGRIS" ,Sky Sport 1 DE FHD
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1487
 
 
@@ -2422,7 +2413,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|Referer=https://www.visionplus.id/
-
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc
 
 
 #EXTINF:-1 tvg-country"ID" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TEST",TVKU Semarang
@@ -2433,6 +2424,8 @@ http://103.30.1.14:8080/hls/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium631/index.m3u8|Origin=https://claplivehdplay.ru
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports2.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/qqwRFcZ2/20240114-104721.png" group-title="TEST",Nova Sport 2 
@@ -2499,11 +2492,21 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/82246
 #EXTINF:-1 tvg-country="US" tvg-logo="" group-title="TEST",ELEVEN SPORTS 3
 http://013tv.com:8080/resplice/wdLIS4d9758INyuX/290476
  
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="TEST",ESPN TV BRASIL
+https://super-cdn.link/espn/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://iili.io/JmoI2nf.png" group-title="TEST",ESPN 2 TV BRASIL
+https://super-cdn.link/espn2/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://iili.io/Jmoudrl.png" group-title="TEST",ESPN 3 TV BRASIL
+https://super-cdn.link/espn3/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://iili.io/JmouJ14.png" group-title="TEST",ESPN 4 TV BRASIL
+https://super-cdn.link/espn4/index.m3u8
 
 
 
 OTT NAVIGATOR ONLY
-
 
 
 #EXTINF:0 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="OTT ONLY",Champions TV 1
