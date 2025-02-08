@@ -2016,43 +2016,6 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
 
 
-#EXTINF:-1 tvg-id="1488" tvg-name="BSports ESPN HD" tvg-logo="https://tvprofil.com/img/kanali-logo/ESPNUK.png" group-title="LIGA INGGRIS" ,BSports ESPN HD
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1488
-
-
-
-
-
-#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="https://i.ibb.co.com/8LDzZzWC/Skysport-PL.png" group-title="LIGA INGGRIS" ,Sky Sport PL FHD
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
-
-
-#EXTINF:-1 tvg-id="1487" tvg-name="Skx Sport 1 DE FHD" tvg-logo="https://i.ibb.co.com/8LDzZzWC/Skysport-PL.png" group-title="LIGA INGGRIS" ,Sky Sport 1 DE FHD
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1487
-
-
-
-#EXTINF:-1 tvg-id="1457" tvg-name="Skx Sport Austria" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-austria.png" group-title="LIGA INGGRIS" ,Sky Sport Austria
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1457
-
-
-
-#EXTINF:-1 tvg-id="1515" tvg-name="Arena Sport 1" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="LIGA INGGRIS" ,Arena Sport 1
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1515
-
-
-
-#EXTINF:-1 tvg-id="1513" tvg-name="Arena Sport 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="LIGA INGGRIS"" ,Arena Sport 3
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1513
-
-
-#EXTINF:-1 tvg-id="1512" tvg-name="Arena Sport 4" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="LIGA INGGRIS" ,Arena Sport 4
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1512
-
-
-
-#EXTINF:-1 tvg-id="1520" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="LIGA INGGRIS" ,Arena Sport 1 HR
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1520
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2121,6 +2084,46 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium634/index.m3u8|Origin=https://claplivehdplay.ru
+
+
+#EXTINF:-1 tvg-id="1488" tvg-name="BSports ESPN HD" tvg-logo="https://tvprofil.com/img/kanali-logo/ESPNUK.png" group-title="LIGA INGGRIS" ,BSports ESPN HD
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1488
+
+
+
+
+
+#EXTINF:-1 tvg-id="53652" tvg-name="Skx Sport Premier League" tvg-logo="https://i.ibb.co.com/8LDzZzWC/Skysport-PL.png" group-title="LIGA INGGRIS" ,Sky Sport PL FHD
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/53652
+
+
+#EXTINF:-1 tvg-id="1487" tvg-name="Skx Sport 1 DE FHD" tvg-logo="https://i.ibb.co.com/8LDzZzWC/Skysport-PL.png" group-title="LIGA INGGRIS" ,Sky Sport 1 DE FHD
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1487
+
+
+
+#EXTINF:-1 tvg-id="1457" tvg-name="Skx Sport Austria" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/sky-sport-austria.png" group-title="LIGA INGGRIS" ,Sky Sport Austria
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1457
+
+
+
+#EXTINF:-1 tvg-id="1515" tvg-name="Arena Sport 1" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_RS_logo.png" group-title="LIGA INGGRIS" ,Arena Sport 1 FHD
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1515
+
+
+#EXTINF:-1 tvg-id="1520" tvg-name="Arena Sport 1 HR" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_1_HR_logo.png" group-title="LIGA INGGRIS" ,Arena Sport 1 HR FHD
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1520
+
+
+
+
+#EXTINF:-1 tvg-id="1513" tvg-name="Arena Sport 3" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_3_RS_logo.png" group-title="LIGA INGGRIS"" ,Arena Sport 3 FHD
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1513
+
+
+#EXTINF:-1 tvg-id="1512" tvg-name="Arena Sport 4" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_4_RS_logo.png" group-title="LIGA INGGRIS" ,Arena Sport 4 FHD
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1512
+
 
 
 
@@ -2569,14 +2572,12 @@ https://super-cdn.link/espn4/index.m3u8
 
 OTT NAVIGATOR ONLY
 
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="" group-title="OTT ONLY", BRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9caf76de62c36d6c8889b24635893951:981eaa8b8d1b4e03ca3b531533907e15
+https://gasruktv.my.id/asx/live.mpd?id=17623|Referrer=https://m.vidio.com&user-agent=Android
 
-#EXTINF:0 tvg-id="BRI.id" tvg-logo="" group-title="OTT ONLY",BRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17623&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=17623&type=dash
 
 
 #EXTINF:0 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="OTT ONLY",Champions TV 1
