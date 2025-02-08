@@ -1063,7 +1063,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/th97cC2/quran.png",Qur'an TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Quran_TV
-
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
 
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="sunnahtv.sa" tvg-logo="https://i.ibb.co.com/XsHqpJk/sunnah.png",Sunnah TV
@@ -2521,82 +2521,6 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
 
-OTT NAVIGATOR ONLY
-
-#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="" group-title="OTT ONLY", BRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9caf76de62c36d6c8889b24635893951:981eaa8b8d1b4e03ca3b531533907e15
-https://gasruktv.my.id/asx/live.mpd?id=17623|Referrer=https://m.vidio.com&user-agent=Android
-
-
-
-#EXTINF:0 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="OTT ONLY",Champions TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
-
-
-#EXTINF:-1 tvg-id="Champions TV 2.id" tvg-logo="https://iili.io/2lP43sS.png" group-title="OTT ONLY",Champions TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=drm
-https://sweet-night-1d1d.worst.workers.dev/?id=6686&type=dash 
-
-
-
-#EXTINF:-1 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="OTT ONLY",Champions TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=6786&type=dash
-
-
-
-#EXTINF:-1 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="OTT ONLY",Champions TV 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=9182&type=dash
-
-
-
-#EXTINF:-1 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="OTT ONLY",Champions TV 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
-
-
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="OTT ONLY", SONY Ten 1 HD (ott)
-https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten2_HD.png" group-title="OTT ONLY", SONY Ten 2 HD (ott)
-https://mhdstream.com/sliv/stream.php?id=96585698|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten3_HD.png" group-title="OTT ONLY", SONY Ten 3 HD (ott)
-https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Six_HD.png" group-title="OTT ONLY", SONY Ten 5 HD (ott)
-https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wC03Z8j/20240803-162312.png" group-title="OTT ONLY", SONY MAX HD (ott)
-https://keralamaxtv.com/sliv/stream.php?id=878545&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
-
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Sony_MAX2.png" group-title="OTT ONLY", SONY MAX 2 (ott)
-https://keralamaxtv.com/sliv/stream.php?id=123&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
-
-
-
 
 
 
@@ -3455,9 +3379,3 @@ https://super-cdn.link/espn4/index.m3u8
 https://h1.intechmedia.net/intech/ch64.m3u8
 
 
-#EXTINF:-1 tvg-id="SALINGSAPA TV" tvg-logo="" group-title="TEST" , CHTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm
-https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
