@@ -2457,143 +2457,6 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
  
  
-TEST
-
-
-
-
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="TEST" , DAZN 1 ES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=70" group-title="TEST" , DAZN 2 ES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
-
-
-
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=29l8c8txra9q1gmicmku13nhw_image-header_pRow_1730196810000&quality=70" group-title="TEST" , DAZN 3 ES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
-
-
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="" group-title="TEST" , DAZN LALIGA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
-
-
-#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rA0rUsj.png?v=1.1.1.1" group-title="TEST",RCTI (RCTI+) Ori
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TEST",Sportstars 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|Referer=https://www.visionplus.id/
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc
-
-
-#EXTINF:-1 tvg-country"ID" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TEST",TVKU Semarang
-http://103.30.1.14:8080/hls/live.m3u8
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports1.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/XvBrvCp0/20240114-104445.png" group-title="TEST",Nova Sport 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium631/index.m3u8|Origin=https://claplivehdplay.ru
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports2.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/qqwRFcZ2/20240114-104721.png" group-title="TEST",Nova Sport 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium632/index.m3u8|Origin=https://claplivehdplay.ru
-
-
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports3.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/6qW6C25q/20240114-104838.png" group-title="TEST",Nova Sport 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium633/index.m3u8|Origin=https://claplivehdplay.ru
-
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports5.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/0NKCqrvz/20240114-105205.png" group-title="TEST",Nova Sport 5 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium635/index.m3u8|Origin=https://claplivehdplay.ru
-
-
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="TEST",PT: SPORT TV 1 FHD
-http://cord-cutter.net:8080/64869862/18743571/167742
-
-
-
-#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="TEST",Sport TV 2
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/165648.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="TEST",PT: SPORT TV 3 HD
-http://cord-cutter.net:8080/64869862/18743571/167744
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="TEST",PT: SPORT TV 4 FHD
-http://cord-cutter.net:8080/64869862/18743571/167745
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="TEST",PT: ELEVEN SPORTS 3 HD
-http://cord-cutter.net:8080/64869862/18743571/167748
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="TEST",PT: ELEVEN SPORTS 4 HD
-http://cord-cutter.net:8080/64869862/18743571/167749
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="TEST",PT: ELEVEN SPORTS 5 HD
-http://cord-cutter.net:8080/64869862/18743571/167750
-
-
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="TEST",ELEVEN SPORTS 1
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/36420
- 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="TEST",ELEVEN SPORTS 2
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/82246
- 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="TEST",ELEVEN SPORTS 3
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/290476
- 
-#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="TEST",ESPN TV BRASIL
-https://super-cdn.link/espn/index.m3u8
-
-#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://iili.io/JmoI2nf.png" group-title="TEST",ESPN 2 TV BRASIL
-https://super-cdn.link/espn2/index.m3u8
- 
-#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://iili.io/Jmoudrl.png" group-title="TEST",ESPN 3 TV BRASIL
-https://super-cdn.link/espn3/index.m3u8
- 
-#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://iili.io/JmouJ14.png" group-title="TEST",ESPN 4 TV BRASIL
-https://super-cdn.link/espn4/index.m3u8
 
 
 
@@ -3305,4 +3168,149 @@ https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/lhr-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://thedream.biz.id/prokci/proxy.php/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+
+TEST
+
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="" group-title="TEST" , SKY SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=335511dfdf0d03bc06f1fdead5870b5a:1a022fb33ad3de4d4579b04966551488
+https://aka-live1-ott.izzigo.tv/3/out/u/dash/SKY-SPORTS-HD/default.mpd
+
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="TEST" , DAZN 1 ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=70" group-title="TEST" , DAZN 2 ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+
+
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=29l8c8txra9q1gmicmku13nhw_image-header_pRow_1730196810000&quality=70" group-title="TEST" , DAZN 3 ES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+
+
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="" group-title="TEST" , DAZN LALIGA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+
+#EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rA0rUsj.png?v=1.1.1.1" group-title="TEST",RCTI (RCTI+) Ori
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TEST",Sportstars 3 HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|Referer=https://www.visionplus.id/
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc
+
+
+#EXTINF:-1 tvg-country"ID" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TEST",TVKU Semarang
+http://103.30.1.14:8080/hls/live.m3u8
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports1.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/XvBrvCp0/20240114-104445.png" group-title="TEST",Nova Sport 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium631/index.m3u8|Origin=https://claplivehdplay.ru
+https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports2.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/qqwRFcZ2/20240114-104721.png" group-title="TEST",Nova Sport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium632/index.m3u8|Origin=https://claplivehdplay.ru
+
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports3.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/6qW6C25q/20240114-104838.png" group-title="TEST",Nova Sport 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium633/index.m3u8|Origin=https://claplivehdplay.ru
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports5.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/0NKCqrvz/20240114-105205.png" group-title="TEST",Nova Sport 5 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
+https://webhdrunns.mizhls.ru/lb/premium635/index.m3u8|Origin=https://claplivehdplay.ru
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="TEST",PT: SPORT TV 1 FHD
+http://cord-cutter.net:8080/64869862/18743571/167742
+
+
+
+#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="TEST",Sport TV 2
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/165648.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="TEST",PT: SPORT TV 3 HD
+http://cord-cutter.net:8080/64869862/18743571/167744
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="" group-title="TEST",PT: SPORT TV 4 FHD
+http://cord-cutter.net:8080/64869862/18743571/167745
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="" group-title="TEST",PT: ELEVEN SPORTS 3 HD
+http://cord-cutter.net:8080/64869862/18743571/167748
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="" group-title="TEST",PT: ELEVEN SPORTS 4 HD
+http://cord-cutter.net:8080/64869862/18743571/167749
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="" group-title="TEST",PT: ELEVEN SPORTS 5 HD
+http://cord-cutter.net:8080/64869862/18743571/167750
+
+
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="TEST",ELEVEN SPORTS 1
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/36420
+ 
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="TEST",ELEVEN SPORTS 2
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/82246
+ 
+#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="TEST",ELEVEN SPORTS 3
+http://013tv.com:8080/resplice/wdLIS4d9758INyuX/290476
+ 
+#EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="TEST",ESPN TV BRASIL
+https://super-cdn.link/espn/index.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.2.br" tvg-logo="https://iili.io/JmoI2nf.png" group-title="TEST",ESPN 2 TV BRASIL
+https://super-cdn.link/espn2/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN.3.br" tvg-logo="https://iili.io/Jmoudrl.png" group-title="TEST",ESPN 3 TV BRASIL
+https://super-cdn.link/espn3/index.m3u8
+ 
+#EXTINF:-1 tvg-id="ESPN.4.br" tvg-logo="https://iili.io/JmouJ14.png" group-title="TEST",ESPN 4 TV BRASIL
+https://super-cdn.link/espn4/index.m3u8
 
