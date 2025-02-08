@@ -2517,8 +2517,7 @@ OTT NAVIGATOR ONLY
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/asx/live.mpd?id=17623
-&type=drm 
+#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/asx/live.mpd?id=17623&type=drm 
 https://gasruktv.my.id/asx/live.mpd?id=17623
 &type=dash
 
