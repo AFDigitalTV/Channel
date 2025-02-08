@@ -2569,22 +2569,11 @@ https://super-cdn.link/espn4/index.m3u8
 
 OTT NAVIGATOR ONLY
 
-
-#EXTINF:0 tvg-id="BRI.id" tvg-logo="" group-title="OTT ONLY",BRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="" group-title="OTT ONLY", BRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9caf76de62c36d6c8889b24635893951:981eaa8b8d1b4e03ca3b531533907e15
-#KODIPROP:inputstream.adaptive.license_key=https://gasruktv.my.id/asx/live.mpd?id=17623&type=drm
-https://gasruktv.my.id/asx/live.mpd?id=17623&type=dash
-
-
-#EXTINF:0 tvg-id="BRI.id" tvg-logo="" group-title="OTT ONLY",BRI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17623&type=drm 
-https://gasruktv.my.id/asx/live.mpd?id=17623|license_type=clearkey&license_key=9caf76de62c36d6c8889b24635893951:981eaa8b8d1b4e03ca3b531533907e15&user-agent=Mozilla/5.0&referrer=https://m.vidio.com
+https://gasruktv.my.id/asx/live.mpd?id=17623|Referrer=https://m.vidio.com&user-agent=Android
 
 
 
