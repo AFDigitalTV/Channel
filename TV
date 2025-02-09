@@ -2293,6 +2293,13 @@ https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
 
+#EXTINF:-1 group-title="SERIE A ITALIA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH/Setanta17_HD_HVC.mpd
+
 
 #EXTINF:-1 group-title="SERIE A ITALIA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2329,12 +2336,17 @@ https://wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_0
 https://wp2-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000095_019371/go-dash-fhd-avc/NL_000095_019371.mpd?p=web
 
 
-#EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://iili.io/JmoIfF2.png" group-title="SERIE A ITALIA",ESPN Latin America
+
+
+
+#EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://i.ibb.co.com/CtHSL6T/20241123-101150.png" group-title="SERIE A ITALIA",ESPN Latin America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
 
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://iili.io/JmoI2nf.png" group-title="SERIE A ITALIA",ESPN 2 Latin America
+
+
+#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://i.ibb.co.com/qRhgT1D/20241123-095655.png" group-title="SERIE A ITALIA",ESPN 2 Latin America
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
@@ -2977,15 +2989,9 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/6413
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/CtHSL6T/20241123-101150.png" group-title="Sport" tvg-id="espn.id" ch-number="54" tvg-name="ESPN", ESPN
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/qRhgT1D/20241123-095655.png" group-title="Sport" tvg-id="espn.id" ch-number="55" tvg-name="ESPN 2", ESPN 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Bzhg2XW/20241123-095805.png" group-title="Sport" tvg-id="espn.id" ch-number="56" tvg-name="ESPN 3", ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
