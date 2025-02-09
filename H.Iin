@@ -226,7 +226,7 @@ https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/QvPY518/indonesiana.png" group-title="Indonesia",INDONESIANA TV
-#https://op-group1-swiftservehd-1.dens.tv/h/h292/S1/mnf.m3u8
+https://tvstreamcast.com/indonesiana.m3u8
 
 
 
