@@ -2497,7 +2497,7 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spor
 
 
 
-#EXTINF:-1 tvg-id="ESPN 7.cl" tvg-logo="https://iili.io/d9Hjm2p.png" group-title="BUNDES LIGA",ESPN 7
+#EXTINF:-1 tvg-id="ESPN 7.cl" tvg-logo="https://i.ibb.co.com/5Fb6JQP/20241123-095218.png" group-title="BUNDES LIGA",ESPN 7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=98ea1e32227adcd3618baac2bbf36814:72a03a09d33e412f14a9bfa4ef24b542
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9bc2ee087a)/master.mpd
@@ -3352,11 +3352,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TEST",Sportstars 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|Referer=https://www.visionplus.id/
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc
+
 
 
 #EXTINF:-1 tvg-country"ID" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TEST",TVKU Semarang
