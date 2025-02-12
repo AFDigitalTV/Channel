@@ -788,14 +788,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
 
  
  
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" group-title="MOVIES",MaxStream
-#https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8
-#https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Maxtream.m3u8
-https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
- 
+
  #EXTINF:-1 tvg-id="idh" tvg-logo="" group-title="MOVIES" , MAXTREAM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -806,13 +799,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
  
  
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="MOVIES",Bioskop Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Bioskopindo.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 
 
  
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiKdzb0-sOhgCnLaWuFVHzyPLJs3I8o3O09EawA7YppqUNwYP56kHy20DQ&s=10" group-title="MOVIES",Cinema World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/CinemaWorld.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 
