@@ -813,7 +813,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="MOVIES",Chinese Drama
-https://raw.githubusercontent.com/#AFDigitalTV/Channel/refs/heads/main/ChineseDrama.m3u8
+#https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/ChineseDrama.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/130/chinesedrama/manifest.mpd
 #https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
 
