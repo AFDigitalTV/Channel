@@ -2328,7 +2328,7 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 #EXTINF:-1 group-title="SERIE A ITALIA" tvg-logo="https://i.imgur.com/J1IeD4A.png",ARENA SPORT 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+#https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
 
 #EXTINF:-1 group-title="SERIE A ITALIA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 1
