@@ -3309,15 +3309,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 
-#EXTINF:-1 tvg-country"ID" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="TEST",TVKU Semarang
-http://103.30.1.14:8080/hls/live.m3u8
-
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports1.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/XvBrvCp0/20240114-104445.png" group-title="TEST",Nova Sport 1 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium631/index.m3u8|Origin=https://claplivehdplay.ru
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
 
 
 
@@ -3376,14 +3371,6 @@ http://cord-cutter.net:8080/64869862/18743571/167749
 http://cord-cutter.net:8080/64869862/18743571/167750
 
 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="TEST",ELEVEN SPORTS 1
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/36420
- 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="TEST",ELEVEN SPORTS 2
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/82246
- 
-#EXTINF:-1 tvg-country="US" tvg-logo="" group-title="TEST",ELEVEN SPORTS 3
-http://013tv.com:8080/resplice/wdLIS4d9758INyuX/290476
  
 #EXTINF:-1 tvg-id="ESPN.br" tvg-logo="https://iili.io/JmoIfF2.png" group-title="TEST",ESPN TV BRASIL
 https://super-cdn.link/espn/index.m3u8
