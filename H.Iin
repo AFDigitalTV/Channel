@@ -2167,12 +2167,26 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 
 
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 7
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
-#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/280px-Premier_League_Logo.svg.png",Premier League
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta23_HD_HVC/GO3_LIVE_DASH/Setanta23_HD_HVC.mpd
 
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta24_HD_HVC/GO3_LIVE_DASH/Setanta24_HD_HVC.mpd
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta25_HD_HVC/GO3_LIVE_DASH/Setanta25_HD_HVC.mpd
 
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/3lUvO5p.png",ARENA SPORT 1
@@ -2220,6 +2234,12 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 https://webhdrunns.mizhls.ru/lb/premium634/index.m3u8|Origin=https://claplivehdplay.ru
 
 
+#EXTINF:-1 tvg-id="1491" tvg-name="BSport 1 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_1_logo.png" group-title="LIGA INGGRIS" ,BSport 1 HD
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1491
+
+
+
+
 #EXTINF:-1 tvg-id="1488" tvg-name="BSports ESPN HD" tvg-logo="https://tvprofil.com/img/kanali-logo/ESPNUK.png" group-title="LIGA INGGRIS" ,BSports ESPN HD
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1488
 
@@ -2259,6 +2279,12 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1513
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1512
 
 
+#EXTINF:-1 tvg-id="1474" tvg-name="Bein Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="LIGA INGGRIS" ,Bein Sports 2 Arab
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1474
+
+
+#EXTINF:-1 tvg-id="13844" tvg-name="Digi Sport 3 (Ro)" tvg-logo="https://tvprofil.com/img/kanali-logo/Digi_sport3a.png" group-title="LIGA INGGRIS" ,Digi Sport 3 (Ro)
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/13844
 
 
 
@@ -2334,6 +2360,12 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH/Setanta18_HD
 https://cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH/Setanta26_HD_HVC.mpd
 
 
+#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 12
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta28_HD_HVC/GO3_LIVE_DASH/Setanta28_HD_HVC.mpd
 
 
 
@@ -2384,6 +2416,9 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 https://hls.pokertvfa.live/hls/stream.m3u8
 
 
+#EXTINF:-1 tvg-id="13845" tvg-name="Digi Sport 4 (Ro)" tvg-logo="" group-title="LIGA SPANYOL" ,Digi Sport 4 (Ro)
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/13845
+
 
 
 ==========LIGA ITALIA========
@@ -2411,6 +2446,14 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta17_HD_HVC/GO3_LIVE_DASH/Setanta17_HD_HVC.mpd
+
+
+#EXTINF:-1 group-title="SERIE A ITALIA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta18_HD_HVC/GO3_LIVE_DASH/Setanta18_HD_HVC.mpd
 
 
 #EXTINF:-1 group-title="SERIE A ITALIA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 4
@@ -2484,6 +2527,10 @@ https://uselector.cdn.intigral-ott.net/ADSP1/ADSP1.isml/manifest.mpd
 https://uselector.cdn.intigral-ott.net/ADSP2/ADSP2.isml/manifest.mpd
 
 
+#EXTINF:-1 tvg-id="5211" tvg-name="DAZN SPORT2 BAR DE" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=yhoot1zy31gt13i1wkgl4cvxw_image-header_pRow_1730196778000&quality=70" group-title="SERIE A ITALIA" ,DAZN SPORT2 BAR DE
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/5211
+
+
 #EXTINF:-1 tvg-id="1514" tvg-name="Arena Sport 2" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_2_RS_logo.png" group-title="SERIE A ITALIA" ,Arena Sport 2 FHD
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1514
 
@@ -2494,7 +2541,12 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1514
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1517
  
 
+#EXTINF:-1 tvg-id="1461" tvg-name="Digi Sport 2 (Ro)" tvg-logo="https://tvprofil.com/img/kanali-logo/Digi_sport2.png" group-title="SERIE A ITALIA" ,Digi Sport 2 (Ro)
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1461
 
+
+#EXTINF:-1 tvg-id="14103" tvg-name="Tring Sport 4" tvg-logo="https://tvprofil.com/img/kanali-logo/sport4-hd-logo.png" group-title="SERIE A ITALIA" ,Tring Sport 4
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/14103
 
 =====BUNDES LIGA======
 
@@ -2512,6 +2564,22 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/so
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
 https://aka-live1-ott.izzigo.tv/5/out/u/dash/SKY-SPORTS-24-HD/manifest.mpd
+
+#EXTINF:-1 group-title="BUNDES LIGA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta19_HD_HVC/GO3_LIVE_DASH/Setanta19_HD_HVC.mpd
+
+
+#EXTINF:-1 group-title="BUNDES LIGA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta20_HD_HVC/GO3_LIVE_DASH/Setanta20_HD_HVC.mpd
+
 
 
 
@@ -2823,13 +2891,11 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1505
 
 
 
-#EXTINF:-1 tvg-id="5211" tvg-name="DAZN SPORT2 BAR DE" tvg-logo="" group-title="Sport" ,DAZN SPORT2 BAR DE
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/5211
 
 
 
-#EXTINF:-1 tvg-id="1491" tvg-name="BSport 1 HD" tvg-logo="https://tvprofil.com/img/kanali-logo/BT_Sport_1_logo.png" group-title="Sport" ,BSport 1 HD
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1491
+
+
 
 
 
@@ -2967,8 +3033,7 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1475
 
 
 
-#EXTINF:-1 tvg-id="1474" tvg-name="Bein Sports 2" tvg-logo="" group-title="Sport" ,Bein Sports 2
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1474
+
 
 
 
@@ -3032,18 +3097,15 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1462
 
 
 
-#EXTINF:-1 tvg-id="1461" tvg-name="Digi Sport 2 (Ro)" tvg-logo="https://tvprofil.com/img/kanali-logo/Digi_sport2.png" group-title="Sport" ,Digi Sport 2 (Ro)
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1461
 
 
 
-#EXTINF:-1 tvg-id="13844" tvg-name="Digi Sport 3 (Ro)" tvg-logo="https://tvprofil.com/img/kanali-logo/Digi_sport3a.png" group-title="Sport" ,Digi Sport 3 (Ro)
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/13844
 
 
 
-#EXTINF:-1 tvg-id="13845" tvg-name="Digi Sport 4 (Ro)" tvg-logo="" group-title="Sport" ,Digi Sport 4 (Ro)
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/13845
+
+
+
 
 
 
@@ -3107,8 +3169,7 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1670
 
 
 
-#EXTINF:-1 tvg-id="14103" tvg-name="Tring Sport 4" tvg-logo="https://tvprofil.com/img/kanali-logo/sport4-hd-logo.png" group-title="Sport" ,Tring Sport 4
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/14103
+
 
 
 
