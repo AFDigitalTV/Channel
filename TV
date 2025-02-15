@@ -2320,6 +2320,13 @@ https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 
 
+#EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://i.ibb.co.com/CtHSL6T/20241123-101150.png" group-title="LIGA SPANYOL",ESPN
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
+
+
+
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://i.ibb.co.com/qRhgT1D/20241123-095655.png" group-title="LIGA SPANYOL",ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
@@ -2654,6 +2661,15 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta29_HD_HVC/GO3_LIVE_DASH/Setanta29_HD
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
 
 
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://i.ibb.co.com/NWVvpdv/20241123-095543.png" group-title="BUNDES LIGA" , ESPN 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e126297fc7af35c736bdffe98eecaaa:fdb0091cf67d9c596dbfb07cf6f4c8f5
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045fe97408a8)/master.mpd
+
+
+
 
 #EXTINF:-1 tvg-id="ESPN 7.cl" tvg-logo="https://i.ibb.co.com/5Fb6JQP/20241123-095218.png" group-title="BUNDES LIGA",ESPN 7
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2685,12 +2701,21 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0srF95S/20241123-095930.png" group-title="LIGA PRANCIS" tvg-id="espn.id" ch-number="57" tvg-name="ESPN 4", ESPN 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
+
+
+
 #EXTINF:-1 tvg-id="SKY SPORTS LIVE 1" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="LIGA PRANCIS" , SKY SPORTS LIVE 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3636a51227fa338cdddf5892d8a621c:1444ee3c4d08bf39454b914f797968eb
 https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
+
+
 
 #EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png",SETANTA LIVE 11
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2699,16 +2724,9 @@ https://aka-live1-ott.izzigo.tv/1/out/u/dash/SKY-LIVE-EVENT-1-HD/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
 https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH/Setanta27_HD_HVC.mpd
 
+
+
 LIGA ARAB
-
-#EXTINF:-1 tvg-id="1529" tvg-name="SK 1  ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo.png" group-title="LIGA ARAB" ,SK 1  ( HR )
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1529
-
-
-#EXTINF:-1 tvg-id="1526" tvg-name="SK 1" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK1_RS_logo.png" group-title="LIGA ARAB" ,SK 1
-http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1526
-
-
 
 
 
@@ -2764,13 +2782,19 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
  
- 
+ #EXTINF:-1 tvg-id="1529" tvg-name="SK 1  ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK1_RS_logo.png" group-title="LIGA ARAB" ,SK 1  ( HR )
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1529
+
+
+#EXTINF:-1 tvg-id="1526" tvg-name="SK 1" tvg-logo="https://tvprofil.com/cdn/200x32/4/img/kanali-logo/SK1_RS_logo.png" group-title="LIGA ARAB" ,SK 1
+http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1526
 
 
 
 
 
 
+SPORTS TAMBAHAN
 
 #EXTINF:-1 tvg-id="1528" tvg-name="SK 2 ( HR )" tvg-logo="https://tvprofil.com/img/kanali-logo/SK2_RS_logo.png" group-title="Sport" ,SK 2 ( HR )
 http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/1528
@@ -3216,10 +3240,7 @@ http://asterix-iptv.club:25461/24SuadViberRazmjena50/SPfbtyeepaup/6413
 #KODIPROP:inputstream.adaptive.license_key=8a60d7889ff126ee1895335e92254f8e:de1b0ce19fa804a1c473eb8ef2d5cf6d
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0srF95S/20241123-095930.png" group-title="Sport" tvg-id="espn.id" ch-number="57" tvg-name="ESPN 4", ESPN 4
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=54a2c11085c315ed6ff85c340a86095d:5f0d10cf4a5c7e22e286b7e8cb4e79f4
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(9500bf02-0001-4199-a150-58dc5d692cca)/master.mpd
+
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/NWVvpdv/20241123-095543.png" group-title="Sport" tvg-id="espn.id" ch-number="58" tvg-name="ESPN 5", ESPN 5
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
