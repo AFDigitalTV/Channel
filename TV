@@ -3593,3 +3593,12 @@ https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd
 
 #EXTINF:-1 tvg-id="mtv00s" tvg-logo="https://i.ibb.co.com/gLvxG8R1/MTV00s.png" group-title="TEST",MTV 00s
 https://nxt.plus:8443/live/leonardo/1234/57254.ts
+
+
+#EXTINF:0 tvg-id="Champions TV 1.id" tvg-logo="https://iili.io/2lP4Kq7.png" group-title="TEST",Champions TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17938&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash
