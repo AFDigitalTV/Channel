@@ -1523,6 +1523,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/lovenature/sa_dash_vmx/lovenature.m
 
 
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/9QJ9chZ.png" group-title="KNOWLEDGE",BBC Earth
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
+https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|Referer=https://www.visionplus.id/
+
+
 
 ########################## NEWS ##########################
 
@@ -3713,25 +3719,22 @@ https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.ne
 
 
 
-#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="TEST",SportTv 1
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/5gScg4z1/Sportv1.png" group-title="TEST",SportTv 1 Brazil
 http://super-cdn.link/sportv/index.m3u8
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="TEST",SportTv 2
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/d4ZYNQbQ/Sportv2.png" group-title="TEST",SportTv 2 Brazil
 http://super-cdn.link/sportv2/index.m3u8
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="TEST",SportTv 3
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/HfNv4hfT/Sportv3.png" group-title="TEST",SportTv 3 Brazil
 http://super-cdn.link/sportv3/index.m3u8
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="TEST",SportTv 4
-http://vip.itvdom.com:25443/V17oiyuPZBQXB/Z2EtFkyVPO/58885
-https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+
+
 
