@@ -828,7 +828,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 tvg-id="bi" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="MOVIES",BIOSKOP INDONESIA
- http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/264801
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/264801
  
  
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png" group-title="MOVIES",Bioskop Indonesia (INDIHOME)
