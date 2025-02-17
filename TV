@@ -3711,3 +3711,27 @@ https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.ne
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://thedream.biz.id:443/working/prokci.php/http://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
+
+
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv1.png" group-title="TEST",SportTv 1
+http://super-cdn.link/sportv/index.m3u8
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv2.png" group-title="TEST",SportTv 2
+http://super-cdn.link/sportv2/index.m3u8
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv3.png" group-title="TEST",SportTv 3
+http://super-cdn.link/sportv3/index.m3u8
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="http://alpha.enjoysat.biz/Logos/sporttv4.png" group-title="TEST",SportTv 4
+http://vip.itvdom.com:25443/V17oiyuPZBQXB/Z2EtFkyVPO/58885
+https://kusnadipepenk.github.io/ntn/sprtv4.m3u8
+
