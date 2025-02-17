@@ -1341,7 +1341,7 @@ https://v2.siar.us/mic/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="musik.id" tvg-name="musik indonesia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5OyeFSTUV_2U4GZOK3MSaK-ul9zUFZNJgyw&usqp=CAU" group-title="MUSIC",Musik Indonesia ID (INDIHOME)
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
-
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/MusicIndo.m3u8
 
 
 
