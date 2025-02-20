@@ -2,4 +2,4 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/live/7464/master.m3u8?hdnts=exp=1740044484~acl=/live/7464/master.m3u8!/hls-p/ingest_7464*/*!/hls-b/ingest_7464*/*~id=1740044484~hmac=a61cb22c97e9394b539654d0dacd2372058d6e1a4fa4bf649125243f38393635
