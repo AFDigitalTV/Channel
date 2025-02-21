@@ -1259,36 +1259,36 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="rasyaad" tvg-logo="",RASYAAD TV
+#EXTINF:-1 group-title="RELIGI" tvg-id="rasyaad" tvg-logo="https://i.ibb.co.com/SG4bLSC/Rasyaad.png",RASYAAD TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCotIkyDFzztbSm21GNGsK9w|user-agent=Mozilla/5.0 (X11; Linux x86_64)
 
 
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="meds" tvg-logo="",MEDS TV
+#EXTINF:-1 group-title="RELIGI" tvg-id="meds" tvg-logo="https://i.ibb.co.com/M287VXV/medstv.png",MEDS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCem4zrffr93cp-o8cOPDhdQ
 
 
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="srb" tvg-logo="",SRB TV
+#EXTINF:-1 group-title="RELIGI" tvg-id="srb" tvg-logo="https://i.ibb.co.com/KxkB2ny/srb.png",SRB TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UC3_QdDQnRVRDJzq56JTO_Zw|user-agent=Mozilla/5.0
 
 
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="tarbiyyah" tvg-logo="",TARBIYYAH SUNNAH
+#EXTINF:-1 group-title="RELIGI" tvg-id="tarbiyyah" tvg-logo="https://i.ibb.co.com/dshMxPb1/tarbiyyah.png",TARBIYYAH SUNNAH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCM73P3XvOfj0HjC97KKYW5g
 
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="Ufa" tvg-logo="",UFA TV
+#EXTINF:-1 group-title="RELIGI" tvg-id="Ufa" tvg-logo="https://i.ibb.co.com/8LXbZ23M/Ufa.png",UFA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCSfNcvSwqOfA33QYkzZfB-g
 
 
 
-#EXTINF:-1 group-title="RELIGI" tvg-id="ld" tvg-logo="",LAFADZ DO'A
+#EXTINF:-1 group-title="RELIGI" tvg-id="ld" tvg-logo="https://i.ibb.co.com/SXBvHRcM/Ld.png",LAFADZ DO'A
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCN2ySyRgxARVmENnOZ70rbg
 
