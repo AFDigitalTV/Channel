@@ -2105,6 +2105,14 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 
 
 
+#EXTINF:0 tvg-id="dazn1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="SPORTS", DAZN 1 DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
+https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
+
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="",SBS Sport
@@ -2411,10 +2419,10 @@ http://super-cdn.link/sportv3/index.m3u8
 
 
 
-=======LIGA KONOHA======
+=======BRI LIGA 1======
 
 
-#EXTINF:0 tvg-id="SS3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="LIGA KONOHA", SPORTSTARS 3
+#EXTINF:0 tvg-id="SS3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="BRI LIGA 1", SPORTSTARS 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2424,7 +2432,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/in
 
 
 
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="LIGA KONOHA", LIGA 1
+#EXTINF:0 tvg-id="id" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="BRI LIGA 1", LIGA 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3321,18 +3329,6 @@ TEST
 
 
 
-
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=29l8c8txra9q1gmicmku13nhw_image-header_pRow_1730196810000&quality=70" group-title="TEST" , DAZN 3 ES
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/rA0rUsj.png?v=1.1.1.1" group-title="TEST",RCTI (RCTI+) Ori
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -3342,49 +3338,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports1.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/XvBrvCp0/20240114-104445.png" group-title="TEST",Nova Sport 1 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium631/index.m3u8|Origin=https://claplivehdplay.ru
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
-
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports2.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/qqwRFcZ2/20240114-104721.png" group-title="TEST",Nova Sport 2 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium632/index.m3u8|Origin=https://claplivehdplay.ru
-
-
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports3.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/6qW6C25q/20240114-104838.png" group-title="TEST",Nova Sport 3 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium633/index.m3u8|Origin=https://claplivehdplay.ru
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports4.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/fyRZJGB0/20240114-105038.png" group-title="TEST",NOVA SPORT 4 4K UHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium634/index.m3u8|Origin=https://claplivehdplay.ru
-
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="novasports5.gr" tvg-name="novasport.gr" tvg-logo="https://i.postimg.cc/0NKCqrvz/20240114-105205.png" group-title="TEST",Nova Sport 5 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
-https://webhdrunns.mizhls.ru/lb/premium635/index.m3u8|Origin=https://claplivehdplay.ru
-
-
-
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="" group-title="TEST",PT: SPORT TV 1 FHD
 http://cord-cutter.net:8080/64869862/18743571/167742
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/MusicIndo.m3u8
 
-
-#EXTINF:-1 xui-id="11540" tvg-id="" tvg-name="Portugal- Sport TV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/Sporttv-2.svg/revision/latest/scale-to-width-down/300?cb=20231020154516" group-title="TEST",Sport TV 2
-http://mytv-extra.com:80/live/t12mgxyb335/9832948789/165648.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="" group-title="TEST",PT: SPORT TV 3 HD
@@ -3437,15 +3394,6 @@ https://super-cdn.link/espn4/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/gMzHtGw/images-4-modified.png" group-title="TEST",Al-Bahjah TV
-https://h1.intechmedia.net/intech/ch64.m3u8
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="mtv00s" tvg-logo="https://i.ibb.co.com/gLvxG8R1/MTV00s.png" group-title="TEST",MTV 00s
 https://nxt.plus:8443/live/leonardo/1234/57254.ts
 
@@ -3455,18 +3403,6 @@ https://nxt.plus:8443/live/leonardo/1234/57254.ts
 
 
 
-
-
-
-
-
-#EXTINF:0 tvg-id="dazn1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="TEST", DAZN 1 DE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
-https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
 
 
 #EXTINF:0 tvg-country="ID" tvg-logo="https://images.indihometv.com/logo_jtv_ver1.png" group-title="TEST",JTV
