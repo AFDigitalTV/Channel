@@ -1,13 +1,1 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=573055,AVERAGE-BANDWIDTH=520959,CODECS="avc1.640015,mp4a.40.2",RESOLUTION=480x270,FRAME-RATE=25.000
-https://cdngb196.indihometv.com/joss/130/bioskopindonesia/chunklist_w1052706147_b1044100_sleng.m3u8?encp=&uid=&expp=
-https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
-#EXT-X-STREAM-INF:BANDWIDTH=1039455,AVERAGE-BANDWIDTH=944959,CODECS="avc1.64001e,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000
-https://cdngb196.indihometv.com/joss/130/bioskopindonesia/chunklist_w1052706147_b1044100_sleng.m3u8?encp=&uid=&expp=
-#EXT-X-STREAM-INF:BANDWIDTH=1505855,AVERAGE-BANDWIDTH=1368959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=960x540,FRAME-RATE=25.000
-https://cdngb196.indihometv.com/joss/130/bioskopindonesia/chunklist_w1052706147_b1044100_sleng.m3u8?encp=&uid=&expp=
-#EXT-X-STREAM-INF:BANDWIDTH=1855655,AVERAGE-BANDWIDTH=1686959,CODECS="avc1.64001f,mp4a.40.2",RESOLUTION=1280x720,FRAME-RATE=25.000
-https://cdngb196.indihometv.com/joss/130/bioskopindonesia/chunklist_w1052706147_b1044100_sleng.m3u8?encp=&uid=&expp=
-#EXT-X-STREAM-INF:BANDWIDTH=3021655,AVERAGE-BANDWIDTH=2746959,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080,FRAME-RATE=25.000
-https://cdngb196.indihometv.com/joss/130/bioskopindonesia/chunklist_w1052706147_b1044100_sleng.m3u8?encp=&uid=&expp=
+#EXTM3U #EXT-X-VERSION:3 #EXT-X-TARGETDURATION:3 #EXT-X-MEDIA-SEQUENCE:129829 #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8pb8.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8pje.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8prt.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8q08.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8q8n.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8tjs.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8ts7.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8u0m.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8u8s.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8uh7.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8upm.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8uxs.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8v67.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8vem.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8vn1.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8vv7.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8w3m.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8wc1.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8wk7.ts #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8wsm.ts
