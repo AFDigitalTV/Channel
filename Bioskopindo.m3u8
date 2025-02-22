@@ -6,7 +6,8 @@
 
 #EXT-X-MEDIA-SEQUENCE:129829
 
-#EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8pb8.ts
+#EXTINF:3.000000,
+https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8pb8.ts
 #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8pje.ts
 #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8prt.ts
 #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8q08.ts
