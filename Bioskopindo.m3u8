@@ -1,4 +1,5 @@
-#EXTM3U #EXT-X-VERSION:3
+#EXTM3U
+#EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:3 #EXT-X-MEDIA-SEQUENCE:129829
 #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8pb8.ts
 #EXTINF:3.000000, https://cdn2-reg2.mm.oxygen.id/hls/vtv/jxt6eh8pje.ts
