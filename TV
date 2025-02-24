@@ -2047,6 +2047,16 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 
 
 
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png" group-title="SPORTS INDO", PREMIER LEAGUE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9353&type=drm
+https://video.jasoncreak8.workers.dev/play.mpd?id=9353&type=dash
+
+
+
 #EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="SPORTS INDO",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
@@ -3548,13 +3558,7 @@ https://haoyunlai.serv00.net/Smartv-1.php?id=Indosiar
 
 
 
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Vprs3ftF/Premier-League-TV.png" group-title="TEST", PREMIER LEAGUE TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9353&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=9353&type=dash
+
 
 
 #EXTINF:0 tvg-id="PL" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="TEST", SONY
@@ -3565,14 +3569,3 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://mhdstream.com/sliv/&key=thenayeemparvez
 https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
 
-
-#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="TEST",SCTV 
-https://zozotv.xyz:443/live/zotv744/zxy086/46.ts 
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="TEST",MNCTV 
-https://zozotv.xyz:443/live/zotv744/zxy086/49.ts 
-#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="TEST",RCTI 
-https://zozotv.xyz:443/live/zotv744/zxy086/47.ts 
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="TEST",INDOSIAR 
-https://zozotv.xyz:443/live/zotv744/zxy086/45.ts 
-#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="TEST",MOJI 
-https://zozotv.xyz:443/live/zotv744/zxy086/475.ts
