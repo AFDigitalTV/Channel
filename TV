@@ -3564,3 +3564,15 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=9353&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mhdstream.com/sliv/&key=thenayeemparvez
 https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
+
+
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="TEST",SCTV 
+https://zozotv.xyz:443/live/zotv744/zxy086/46.ts 
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="TEST",MNCTV 
+https://zozotv.xyz:443/live/zotv744/zxy086/49.ts 
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="TEST",RCTI 
+https://zozotv.xyz:443/live/zotv744/zxy086/47.ts 
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="TEST",INDOSIAR 
+https://zozotv.xyz:443/live/zotv744/zxy086/45.ts 
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="TEST",MOJI 
+https://zozotv.xyz:443/live/zotv744/zxy086/475.ts
