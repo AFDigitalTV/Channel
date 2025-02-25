@@ -2143,15 +2143,15 @@ https://zozotv.xyz:443/live/usez37/zxy921/154.ts
 https://zozotv.xyz:443/live/usez37/zxy921/400.ts 
 
 
-#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://i.ibb.co/h8Yh230/1677144706720.png" group-title="SPORTS ARENA",Arena Bola (720p) 
+#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://i.ibb.co/h8Yh230/1677144706720.png" group-title="SPORTS ARENA",Arena Bola 
 https://zozotv.xyz:443/live/usez37/zxy921/791.ts 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Arena Bola (1080p)" tvg-logo="https://i.ibb.co/R2gSDzJ/1679052576497.png" group-title="SPORTS ARENA",Arena Bola (1080p) 
-https://zozotv.xyz:443/live/usez37/zxy921/802.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola (1080p)" tvg-logo="https://i.ibb.co/R2gSDzJ/1679052576497.png" group-title="SPORTS ARENA",Arena Bola 
+#https://zozotv.xyz:443/live/usez37/zxy921/802.ts 
 
 
-#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (FHD)" tvg-logo="https://i.ibb.co/G7qjNvJ/1677144872739.png" group-title="SPORTS ARENA",Arena Bola 2 (FHD) 
+#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (FHD)" tvg-logo="https://i.ibb.co/G7qjNvJ/1677144872739.png" group-title="SPORTS ARENA",Arena Bola 2 
 https://zozotv.xyz:443/live/usez37/zxy921/792.ts 
 
 
@@ -2160,7 +2160,7 @@ https://zozotv.xyz:443/live/usez37/zxy921/156.ts
 
 
 #EXTINF:-1 tvg-id="EPL1" tvg-name="Premier League (B)" tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="SPORTS ARENA",Premier League (B) 
-https://zozotv.xyz:443/live/usez37/zxy921/568.ts 
+#https://zozotv.xyz:443/live/usez37/zxy921/568.ts 
 
 
 #EXTINF:-1 tvg-id="EPL2" tvg-name="Premier League 2" tvg-logo="https://link.zozotv.xyz/pic/epl2zozo.png" group-title="SPORTS ARENA",Premier League 2 
@@ -2168,7 +2168,7 @@ https://zozotv.xyz:443/live/usez37/zxy921/157.ts
 
 
 #EXTINF:-1 tvg-id="EPL2" tvg-name="Premier League 2 (B)" tvg-logo="https://link.zozotv.xyz/pic/epl2zozo.png" group-title="SPORTS ARENA",Premier League 2 (B) 
-https://zozotv.xyz:443/live/usez37/zxy921/569.ts 
+#https://zozotv.xyz:443/live/usez37/zxy921/569.ts 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Premier League 3" tvg-logo="https://link.zozotv.xyz/pic/epl3zozo.png" group-title="SPORTS ARENA",Premier League 3 
@@ -2176,7 +2176,7 @@ https://zozotv.xyz:443/live/usez37/zxy921/2204.ts
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Premier League 3 (B)" tvg-logo="https://link.zozotv.xyz/pic/epl3zozo.png" group-title="SPORTS ARENA",Premier League 3 (B) 
-https://zozotv.xyz:443/live/usez37/zxy921/2205.ts 
+#https://zozotv.xyz:443/live/usez37/zxy921/2205.ts 
 
 
 #EXTINF:-1 tvg-id="Football" tvg-name="Football" tvg-logo="https://link.zozotv.xyz/pic/footballzozo.png" group-title="SPORTS ARENA",Football 
@@ -2189,6 +2189,14 @@ https://zozotv.xyz:443/live/usez37/zxy921/155.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Badminton 2 ( Live only)" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS ARENA",Badminton 2 ( Live only) 
 https://zozotv.xyz:443/live/usez37/zxy921/2342.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport Plus" tvg-logo="https://link.zozotv.xyz/pic/sportpluszozo.png" group-title="SPORTS ARENA",Sport Plus 
+https://zozotv.xyz:443/live/usez37/zxy921/482.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport UHD" tvg-logo="https://link.zozotv.xyz/pic/sportuhdzozo.png" group-title="SPORTS ARENA",Sport UHD 
+https://zozotv.xyz:443/live/usez37/zxy921/2165.ts 
 
 
 ============SPORTS=============
@@ -3570,12 +3578,7 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/290476
  
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Sport Plus" tvg-logo="https://link.zozotv.xyz/pic/sportpluszozo.png" group-title="TEST",Sport Plus 
-https://zozotv.xyz:443/live/usez37/zxy921/482.ts 
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Sport UHD" tvg-logo="https://link.zozotv.xyz/pic/sportuhdzozo.png" group-title="TEST",Sport UHD 
-https://zozotv.xyz:443/live/usez37/zxy921/2165.ts 
 
 
 #EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="" group-title="TEST",iNews 
