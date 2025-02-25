@@ -3517,3 +3517,101 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/290476
 https://zozotv.xyz:443/live/usez37/zxy921/154.ts 
 #EXTINF:-1 tvg-id="IMC" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="TEST",Arena 2 
 https://zozotv.xyz:443/live/usez37/zxy921/400.ts 
+
+
+#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://i.ibb.co/h8Yh230/1677144706720.png" group-title="TEST",Arena Bola (720p) 
+https://zozotv.xyz:443/live/usez37/zxy921/791.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola (1080p)" tvg-logo="https://i.ibb.co/R2gSDzJ/1679052576497.png" group-title="TEST",Arena Bola (1080p) 
+https://zozotv.xyz:443/live/usez37/zxy921/802.ts 
+#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (FHD)" tvg-logo="https://i.ibb.co/G7qjNvJ/1677144872739.png" group-title="TEST",Arena Bola 2 (FHD) 
+https://zozotv.xyz:443/live/usez37/zxy921/792.ts 
+#EXTINF:-1 tvg-id="EPL1" tvg-name="Premier League" tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="TEST",Premier League 
+https://zozotv.xyz:443/live/usez37/zxy921/156.ts 
+#EXTINF:-1 tvg-id="EPL1" tvg-name="Premier League (B)" tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="TEST",Premier League (B) 
+https://zozotv.xyz:443/live/usez37/zxy921/568.ts 
+#EXTINF:-1 tvg-id="EPL2" tvg-name="Premier League 2" tvg-logo="https://link.zozotv.xyz/pic/epl2zozo.png" group-title="TEST",Premier League 2 
+https://zozotv.xyz:443/live/usez37/zxy921/157.ts 
+#EXTINF:-1 tvg-id="EPL2" tvg-name="Premier League 2 (B)" tvg-logo="https://link.zozotv.xyz/pic/epl2zozo.png" group-title="TEST",Premier League 2 (B) 
+https://zozotv.xyz:443/live/usez37/zxy921/569.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 3" tvg-logo="https://link.zozotv.xyz/pic/epl3zozo.png" group-title="TEST",Premier League 3 
+https://zozotv.xyz:443/live/usez37/zxy921/2204.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 3 (B)" tvg-logo="https://link.zozotv.xyz/pic/epl3zozo.png" group-title="TEST",Premier League 3 (B) 
+https://zozotv.xyz:443/live/usez37/zxy921/2205.ts 
+#EXTINF:-1 tvg-id="Football" tvg-name="Football" tvg-logo="https://link.zozotv.xyz/pic/footballzozo.png" group-title="TEST",Football 
+https://zozotv.xyz:443/live/usez37/zxy921/158.ts 
+#EXTINF:-1 tvg-id="Badminton" tvg-name="Badminton" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="TEST",Badminton 
+https://zozotv.xyz:443/live/usez37/zxy921/155.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Badminton 2 ( Live only)" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="TEST",Badminton 2 ( Live only) 
+https://zozotv.xyz:443/live/usez37/zxy921/2342.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Sport Plus" tvg-logo="https://link.zozotv.xyz/pic/sportpluszozo.png" group-title="TEST",Sport Plus 
+https://zozotv.xyz:443/live/usez37/zxy921/482.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Sport UHD" tvg-logo="https://link.zozotv.xyz/pic/sportuhdzozo.png" group-title="TEST",Sport UHD 
+https://zozotv.xyz:443/live/usez37/zxy921/2165.ts 
+#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="" group-title="TEST",iNews 
+https://zozotv.xyz:443/live/usez37/zxy921/2203.ts 
+#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="TEST",TVS 
+https://zozotv.xyz:443/live/usez37/zxy921/59.ts 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/Andrilight/Nonton/refs/heads/main/Al3.png",Champions TV 1 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/51 
+#EXTINF:-1 group-title="TEST" tvg-logo="https://raw.githubusercontent.com/Andrilight/Nonton/refs/heads/main/Al3.png",Champions TV 2 
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/101 
+
+
+======FRESSTV====
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Sumpahan Malam Raya" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Sumpahan Malam Raya 
+https://zozotv.xyz:443/live/usez37/zxy921/1034.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480- Merewang Keluarga Pak Awang" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480- Merewang Keluarga Pak Awang 
+https://zozotv.xyz:443/live/usez37/zxy921/927.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480- Escape" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480- Escape 
+https://zozotv.xyz:443/live/usez37/zxy921/858.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480- Pulau" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480- Pulau 
+https://zozotv.xyz:443/live/usez37/zxy921/850.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480- Siku 12: Langkah Derhaka" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480- Siku 12: Langkah Derhaka 
+https://zozotv.xyz:443/live/usez37/zxy921/835.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Bas Terakhir Malam Raya" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Bas Terakhir Malam Raya 
+https://zozotv.xyz:443/live/usez37/zxy921/826.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Duan Nago Bogho" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Duan Nago Bogho 
+https://zozotv.xyz:443/live/usez37/zxy921/824.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Air Force : Selagi Bernyawa" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Air Force : Selagi Bernyawa 
+https://zozotv.xyz:443/live/usez37/zxy921/823.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Remp-IT 2" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Remp-IT 2 
+https://zozotv.xyz:443/live/usez37/zxy921/822.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 -Dady ku Gangster" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 -Dady ku Gangster 
+https://zozotv.xyz:443/live/usez37/zxy921/821.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Abang Long Fadil 3" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Abang Long Fadil 3 
+https://zozotv.xyz:443/live/usez37/zxy921/751.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Talbis Iblis" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Talbis Iblis 
+https://zozotv.xyz:443/live/usez37/zxy921/828.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Pengabdi Setan 2" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Pengabdi Setan 2 
+https://zozotv.xyz:443/live/usez37/zxy921/1866.ts
+
+
+
+==========Indonesia=======
+
+
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="INDONESIA",NET. 
+https://zozotv.xyz:443/live/usez37/zxy921/50.ts 
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="INDONESIA",GTV 
+https://zozotv.xyz:443/live/usez37/zxy921/48.ts 
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="INDONESIA",SCTV 
+https://zozotv.xyz:443/live/usez37/zxy921/46.ts 
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="INDONESIA",MNCTV 
+https://zozotv.xyz:443/live/usez37/zxy921/49.ts 
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="INDONESIA",RCTI 
+https://zozotv.xyz:443/live/usez37/zxy921/47.ts 
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="INDONESIA",INDOSIAR 
+https://zozotv.xyz:443/live/usez37/zxy921/45.ts 
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="INDONESIA",TRANS TV 
+https://zozotv.xyz:443/live/usez37/zxy921/43.ts 
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="INDONESIA",TRANS 7 
+https://zozotv.xyz:443/live/usez37/zxy921/44.ts 
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="INDONESIA",Dunia Lain 
+https://zozotv.xyz:443/live/usez37/zxy921/346.ts 
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="INDONESIA",ANTV 
+https://zozotv.xyz:443/live/usez37/zxy921/51.ts 
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="INDONESIA",TVRI 
+https://zozotv.xyz:443/live/usez37/zxy921/359.ts 
+#EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="INDONESIA",Rtv 
+https://zozotv.xyz:443/live/usez37/zxy921/364.ts 
+
