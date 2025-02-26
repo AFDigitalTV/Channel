@@ -3330,6 +3330,14 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH/Setanta27_HD
 LIGA ARAB
 
 
+#EXTINF:0 tvg-id="dazn1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="LIGA ARAB", DAZN 1 DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
+https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
+
 
 
 #EXTINF:-1 group-title="LIGA ARAB" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
@@ -3645,3 +3653,39 @@ https://zozotv.xyz:443/live/usez37/zxy921/1866.ts
 
 #EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="INDONESIA",Dunia Lain 
 #https://zozotv.xyz:443/live/usez37/zxy921/346.ts 
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp" group-title=" 🏀voly 🏀",KBSN SPORTS
+#https://www.dropbox.com/scl/fi/f2msmlqo4vycvq7zehlgv/videoplayback.mp4?rlkey=pt5muaeged0v9jg1n1f44fu6n&st=mgdhs55x&dl=1
+https://janda-korea.triwied77.workers.dev/index.mpd?id=20250226021F214
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp"  group-title=" 🏀voly 🏀",LIVOLY
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298550
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp"  group-title=" 🏀voly 🏀",voly korea
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://iptv12k.com:35461/live/654321/123456/3214.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp"  group-title=" 🏀voly 🏀", 🆚
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+
+https://www.dropbox.com/scl/fi/f2msmlqo4vycvq7zehlgv/videoplayback.mp4?rlkey=pt5muaeged0v9jg1n1f44fu6n&st=mgdhs55x&dl=1
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp" group-title=" 🏀voly 🏀",🆚 
+https://www.dropbox.com/scl/fi/f2msmlqo4vycvq7zehlgv/videoplayback.mp4?rlkey=pt5muaeged0v9jg1n1f44fu6n&st=mgdhs55x&dl=1
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp" group-title=" 🏀voly 🏀",livoly 2
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co/HNz0Hrv/Logo-Livoli-Divisi-Utama.png" group-title=" 🏀voly 🏀",voly 3
+https://zozotv.xyz:443/live/zotv744/zxy086/475.ts
+
+
+ 
+#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="https://i.ibb.co.com/b09FzDb/volyball.webp"  group-title=" 🏀voly 🏀",TVRI SPORT
+http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/166686
+
