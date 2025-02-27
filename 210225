@@ -2133,7 +2133,70 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 
+=========SPORTS ARENA========
 
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SPORTS ARENA",Arena 
+https://zozotv.xyz:443/live/usez37/zxy921/154.ts 
+
+
+#EXTINF:-1 tvg-id="IMC" tvg-name="Arena 2" tvg-logo="https://i.ibb.co/DpQMQvN/yui.png" group-title="SPORTS ARENA",Arena 2 
+https://zozotv.xyz:443/live/usez37/zxy921/400.ts 
+
+
+#EXTINF:-1 tvg-id="ArenaBola" tvg-name="Arena Bola (720p)" tvg-logo="https://i.ibb.co/h8Yh230/1677144706720.png" group-title="SPORTS ARENA",Arena Bola 
+https://zozotv.xyz:443/live/usez37/zxy921/791.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Arena Bola (1080p)" tvg-logo="https://i.ibb.co/R2gSDzJ/1679052576497.png" group-title="SPORTS ARENA",Arena Bola 
+#https://zozotv.xyz:443/live/usez37/zxy921/802.ts 
+
+
+#EXTINF:-1 tvg-id="ArenaBola2" tvg-name="Arena Bola 2 (FHD)" tvg-logo="https://i.ibb.co/G7qjNvJ/1677144872739.png" group-title="SPORTS ARENA",Arena Bola 2 
+https://zozotv.xyz:443/live/usez37/zxy921/792.ts 
+
+
+#EXTINF:-1 tvg-id="EPL1" tvg-name="Premier League" tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="SPORTS ARENA",Premier League 
+https://zozotv.xyz:443/live/usez37/zxy921/156.ts 
+
+
+#EXTINF:-1 tvg-id="EPL1" tvg-name="Premier League (B)" tvg-logo="https://link.zozotv.xyz/pic/eplzozo.png" group-title="SPORTS ARENA",Premier League (B) 
+#https://zozotv.xyz:443/live/usez37/zxy921/568.ts 
+
+
+#EXTINF:-1 tvg-id="EPL2" tvg-name="Premier League 2" tvg-logo="https://link.zozotv.xyz/pic/epl2zozo.png" group-title="SPORTS ARENA",Premier League 2 
+https://zozotv.xyz:443/live/usez37/zxy921/157.ts 
+
+
+#EXTINF:-1 tvg-id="EPL2" tvg-name="Premier League 2 (B)" tvg-logo="https://link.zozotv.xyz/pic/epl2zozo.png" group-title="SPORTS ARENA",Premier League 2 (B) 
+#https://zozotv.xyz:443/live/usez37/zxy921/569.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 3" tvg-logo="https://link.zozotv.xyz/pic/epl3zozo.png" group-title="SPORTS ARENA",Premier League 3 
+https://zozotv.xyz:443/live/usez37/zxy921/2204.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Premier League 3 (B)" tvg-logo="https://link.zozotv.xyz/pic/epl3zozo.png" group-title="SPORTS ARENA",Premier League 3 (B) 
+#https://zozotv.xyz:443/live/usez37/zxy921/2205.ts 
+
+
+#EXTINF:-1 tvg-id="Football" tvg-name="Football" tvg-logo="https://link.zozotv.xyz/pic/footballzozo.png" group-title="SPORTS ARENA",Football 
+https://zozotv.xyz:443/live/usez37/zxy921/158.ts 
+
+
+#EXTINF:-1 tvg-id="Badminton" tvg-name="Badminton" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS ARENA",Badminton 
+https://zozotv.xyz:443/live/usez37/zxy921/155.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Badminton 2 ( Live only)" tvg-logo="https://link.zozotv.xyz/pic/badmintonzozo.png" group-title="SPORTS ARENA",Badminton 2 ( Live only) 
+https://zozotv.xyz:443/live/usez37/zxy921/2342.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport Plus" tvg-logo="https://link.zozotv.xyz/pic/sportpluszozo.png" group-title="SPORTS ARENA",Sport Plus 
+https://zozotv.xyz:443/live/usez37/zxy921/482.ts 
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Sport UHD" tvg-logo="https://link.zozotv.xyz/pic/sportuhdzozo.png" group-title="SPORTS ARENA",Sport UHD 
+https://zozotv.xyz:443/live/usez37/zxy921/2165.ts 
 
 
 ============SPORTS=============
@@ -2173,6 +2236,8 @@ http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #http://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=dCk6rPUY0pBERsgC2xzzO5QlzIz20f3RTAyLnas0&secret=84927af7841b99ed3d4916a2b4b583b4&time=1696425172|Referer=https://kakotv.com/
 https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841|Referer=https://kakotv.com/
+
+
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2496,7 +2561,8 @@ https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205|referrer=https://m.vidio.com
 https://tv.cyev.my.id:443/play/BwpPb-k0GHJfyLF0_SBKthCwbqf7ktf0LcCpojVQE4A/ts
 
 
-
+#EXTINF:-1 tvg-id="Indosiar" tvg-name="BRI LIGA 1" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="BRI LIGA 1",INDOSIAR 
+https://zozotv.xyz:443/live/usez37/zxy921/45.ts
 
 
 =========UCL & UEL=========
@@ -3266,6 +3332,14 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta27_HD_HVC/GO3_LIVE_DASH/Setanta27_HD
 LIGA ARAB
 
 
+#EXTINF:0 tvg-id="dazn1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="LIGA ARAB", DAZN 1 DE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
+https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
+
 
 
 #EXTINF:-1 group-title="LIGA ARAB" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
@@ -3511,6 +3585,6 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/290476
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #https://why.biz.id/Iptv/oxygen.php?id=vtv
 
-
+ 
 
 
