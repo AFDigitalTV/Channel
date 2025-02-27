@@ -2235,8 +2235,8 @@ http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 #EXTINF:0 tvg-id="kbsn" tvg-logo="https://i.ibb.co.com/FktcTY9K/Kbsn.png" group-title="SPORTS", KBSN SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #http://live-edge-th136.myjktv.com/watch/live.m3u8?video=kbs_n_sports_540&sid=dCk6rPUY0pBERsgC2xzzO5QlzIz20f3RTAyLnas0&secret=84927af7841b99ed3d4916a2b4b583b4&time=1696425172|Referer=https://kakotv.com/
-#https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841|Referer=https://kakotv.com/
-https://janda-korea.triwied77.workers.dev/index.mpd?id=20250226021F214
+https://live-114.myjktv.com:443/watch/live.m3u8?video=kbs_n_sports_540&sid=PblIb3m2T4yezxGJjXZyHT4OBveX2x14ZfsWNzT6&secret=7123ee7ebfa5269848adbd93d9d648c2&time=1736774841|Referer=https://kakotv.com/
+
 
 
 
@@ -3586,74 +3586,5 @@ http://013tv.com:8080/resplice/wdLIS4d9758INyuX/290476
 #https://why.biz.id/Iptv/oxygen.php?id=vtv
 
  
-
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="" group-title="TEST",iNews 
-https://zozotv.xyz:443/live/usez37/zxy921/2203.ts 
-
-
-#EXTINF:-1 tvg-id="TVS" tvg-name="TVS" tvg-logo="https://i.ibb.co/W5jwb9K/FCSC.png" group-title="TEST",TVS 
-https://zozotv.xyz:443/live/usez37/zxy921/59.ts 
-
-
-======FRESSTV====
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Sumpahan Malam Raya" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Sumpahan Malam Raya 
-https://zozotv.xyz:443/live/usez37/zxy921/1034.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480- Merewang Keluarga Pak Awang" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480- Merewang Keluarga Pak Awang 
-https://zozotv.xyz:443/live/usez37/zxy921/927.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480- Escape" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480- Escape 
-https://zozotv.xyz:443/live/usez37/zxy921/858.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480- Pulau" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480- Pulau 
-https://zozotv.xyz:443/live/usez37/zxy921/850.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480- Siku 12: Langkah Derhaka" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480- Siku 12: Langkah Derhaka 
-https://zozotv.xyz:443/live/usez37/zxy921/835.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Bas Terakhir Malam Raya" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Bas Terakhir Malam Raya 
-https://zozotv.xyz:443/live/usez37/zxy921/826.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Duan Nago Bogho" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Duan Nago Bogho 
-https://zozotv.xyz:443/live/usez37/zxy921/824.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Air Force : Selagi Bernyawa" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Air Force : Selagi Bernyawa 
-https://zozotv.xyz:443/live/usez37/zxy921/823.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Remp-IT 2" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Remp-IT 2 
-https://zozotv.xyz:443/live/usez37/zxy921/822.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 -Dady ku Gangster" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 -Dady ku Gangster 
-https://zozotv.xyz:443/live/usez37/zxy921/821.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Abang Long Fadil 3" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Abang Long Fadil 3 
-https://zozotv.xyz:443/live/usez37/zxy921/751.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Talbis Iblis" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Talbis Iblis 
-https://zozotv.xyz:443/live/usez37/zxy921/828.ts 
-#EXTINF:-1 tvg-id="" tvg-name="Astro First 480 - Pengabdi Setan 2" tvg-logo="https://i.ibb.co/NL51BtC/redfirst.png" group-title="First",Astro First 480 - Pengabdi Setan 2 
-https://zozotv.xyz:443/live/usez37/zxy921/1866.ts
-
-
-
-==========Indonesia=======
-
-
-
-#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="INDONESIA",SCTV 
-#https://zozotv.xyz:443/live/usez37/zxy921/46.ts 
-
-
-
-#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="INDONESIA",MNCTV 
-#https://zozotv.xyz:443/live/usez37/zxy921/49.ts 
-
-
-
-#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="INDONESIA",RCTI 
-#https://zozotv.xyz:443/live/usez37/zxy921/47.ts 
-
-
-
-#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="INDONESIA",TRANS 7 
-#https://zozotv.xyz:443/live/usez37/zxy921/44.ts
-
-
-
-#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="INDONESIA",Dunia Lain 
-#https://zozotv.xyz:443/live/usez37/zxy921/346.ts 
 
 
