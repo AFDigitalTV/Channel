@@ -2005,7 +2005,7 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=drm 
-https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
+#https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 
 
 
@@ -2015,7 +2015,7 @@ https://sweet-night-1d1d.worst.workers.dev/?id=17938&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6686&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash
+#https://video.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash
 
 #EXTINF:0 tvg-id="Champions TV 3.id" tvg-logo="https://iili.io/2lP42X2.png" group-title="SPORTS INDO",Champions TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2023,7 +2023,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=6786&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
+#https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
 
 
 #EXTINF:0 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="SPORTS INDO",Champions TV 5
@@ -2032,7 +2032,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
+#https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 
 #EXTINF:0 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="SPORTS INDO",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2040,7 +2040,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9183&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
+#https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 
 
 
@@ -2682,7 +2682,7 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
+#https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 
 #EXTINF:0 tvg-id="Champions TV 6.id" tvg-logo="https://iili.io/2lP4f19.png" group-title="LIGA INGGRIS",Champions TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2690,7 +2690,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9183&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
+#https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 
 
 #EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="LIGA INGGRIS" , DAZN 1 ES
@@ -2818,6 +2818,14 @@ https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(knbc)/mas
 #KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
 
+
+#EXTINF:-1 tvg-id="Sportsnet World HD.ca" tvg-logo="https://iili.io/d9lhT0B.png" group-title="LIGA INGGRIS",Sportsnet World (FA CUP)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd68789dbfa53dc6a19f331f282d3d6a:6fdfea9d9893d58a207acdcba8f20012
+https://live-d-02-rogers-uw-prd.akamaized.net/out/v1/r-prd/ch-07-prd-r-v2/dash-ch-07-prd-r-hd/index.mpd
 
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 7
@@ -3039,7 +3047,7 @@ https://hls.pokertvfa.live/hls/stream.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=17938&type=drm
-https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash
+#https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash
 
 
 
@@ -3597,3 +3605,13 @@ https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=41afa5ce1f058754b60e75d7b18d6fc8:0ec58a10968ce216d47cb8b14a270417
 https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17624
+
+
+
+#EXTINF:0 tvg-id="Champions TV 5.id" tvg-logo="https://iili.io/2lP4dzl.png" group-title="TEST",Champions TV 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm
+#https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
