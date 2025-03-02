@@ -3614,4 +3614,4 @@ https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17624
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9182&type=drm
-#https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
+https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
