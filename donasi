@@ -2759,11 +2759,25 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/
 
 
 
-#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="LIGA INGGRIS", ARENA SPORT PREMIUM 1
+#EXTINF:-1 tvg-id="Arena Premium 1.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="LIGA INGGRIS", ARENA 1 PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd?n=frobinsxmeyy
+
+
+#EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/ooWSTU4.png",ARENA 3 PREMIUM (FA CUP)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=frobinsxmeyy
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIGA INGGRIS",BEIN SPORT 1 HD (FA CUP)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://dsgtq5sngxkde.cloudfront.net/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd|referer=https://www.visionplus.id/
+
+
 
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/3lUvO5p.png",ARENA SPORT 1
@@ -2797,7 +2811,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena4.mpd?n=frobinsxmeyy
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd?n=frobinsxmeyy
 
 
-#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Fb8YXK5g/Go3live.png" group-title="LIGA INGGRIS", GO3 SPORTS EXTRA 1
+#EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Fb8YXK5g/Go3live.png" group-title="LIGA INGGRIS", GO3 SPORTS EXTRA 1 (FA CUP)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
