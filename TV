@@ -2673,8 +2673,8 @@ https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205|referrer=https://m.vidio.com
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a04b62e58fa73e40c60eafb12aa51a7:b3f72694e747e67aa06d04ea813a39cb
 https://haoyunlai.serv00.net/Smartv-1.php?id=Indosiar
-http://code-app.web.id/redirect.php?hash=8a04b62e58fa73e40c60eafb12aa51a7b3f72694e747e67aa06d04ea813a39cb
-
+#http://code-app.web.id/redirect.php?hash=8a04b62e58fa73e40c60eafb12aa51a7b3f72694e747e67aa06d04ea813a39cb
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Bioskopindo.m3u8
 
 
 
