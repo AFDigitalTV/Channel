@@ -118,12 +118,12 @@ https://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=206
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="Indonesia",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #https://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=8237
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Mentari.m3u8
 
 
-#EXTINF:-1 tvg-id="MentariTV.id" group-title="Indonesia" tvg-name="Mentari TV" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png", | Mentari TV
+#EXTINF:-1 tvg-id="MentariTV.id" group-title="Indonesia" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png",Mentari TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=
@@ -3838,26 +3838,5 @@ https://windnew.iosplayer.ru/wind/premium134/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPad; CPU OS 133 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar.id" group-title="TEST" tvg-name=" Indosiar" tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png", |  Indosiar
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=
-#KODIPROP:inputstream.adaptive.license_key=
-http://code-app.web.id/play.mpd?hash=cf98732991fc060e82aedb2eb60586385e9ab1bc096b4b53a01767cfa5b9a426
-
-
-#EXTINF:-1 tvg-id="Indosiar.id" group-title="TEST" tvg-name="Indosiar HD" tvg-logo="https://cdn.urfan.id/logo/indosiar.png", | Indosiar HD
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1
-http://code-app.web.id/play.mpd?hash=ff6063377e2f9785a7317427b98027ab14a639090d81da8e9886c8f8e667ffec
-
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-name=" INDOSIAR (VID)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", |  INDOSIAR (VID)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://code-app.web.id/play.m3u8?hash=659405aa66c64456a328ded0f9c19ea752bf38822542656be40b18757b749d92
 
 
