@@ -2675,13 +2675,10 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205|referrer=https://m.vidio.com
 
 
-#EXTINF:0 tvg-id="id" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="BRI LIGA 1", INDOSIAR HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="" group-title="BRI LIGA 1" tvg-name=" INDOSIAR (EXT)" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png",INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a04b62e58fa73e40c60eafb12aa51a7:b3f72694e747e67aa06d04ea813a39cb
-#http://code-app.web.id/redirect.php?hash=8a04b62e58fa73e40c60eafb12aa51a7b3f72694e747e67aa06d04ea813a39cb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://code-app.web.id/redirect.php?hash=0624007c502cf427d9d681b93f7368ae650d41746fff2ab58ab1d4f50acd9638
 
 
 
@@ -3857,7 +3854,4 @@ http://code-app.web.id/play.mpd?hash=ff6063377e2f9785a7317427b98027ab14a639090d8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 http://code-app.web.id/play.m3u8?hash=659405aa66c64456a328ded0f9c19ea752bf38822542656be40b18757b749d92
 
-#EXTINF:-1 tvg-id="" group-title="TEST" tvg-name=" INDOSIAR (EXT)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png", |  INDOSIAR (EXT)
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://code-app.web.id/redirect.php?hash=0624007c502cf427d9d681b93f7368ae650d41746fff2ab58ab1d4f50acd9638
+
