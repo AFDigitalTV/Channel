@@ -123,6 +123,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Mentari.m3u8
 
 
+#EXTINF:-1 tvg-id="MentariTV.id" group-title="Indonesia" tvg-name="Mentari TV" tvg-logo="https://iptv.urfan.web.id/logo/mentari.png", | Mentari TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12
+http://code-app.web.id/play.mpd?hash=dae14e3a93fd3b605d5655704421fd67251195eecced2f96fe25ff4c44c8211d
+
+
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="Indonesia" tvg-id="ANTV",  ANTV
 #EXTVLCOPT:http-user-agent=DensTv/3.00.00 (Linux;Android 13) ExoPlayerLib/2.18.1
@@ -2672,7 +2681,7 @@ https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205|referrer=https://m.vidio.com
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8a04b62e58fa73e40c60eafb12aa51a7:b3f72694e747e67aa06d04ea813a39cb
-http://code-app.web.id/redirect.php?hash=8a04b62e58fa73e40c60eafb12aa51a7b3f72694e747e67aa06d04ea813a39cb
+#http://code-app.web.id/redirect.php?hash=8a04b62e58fa73e40c60eafb12aa51a7b3f72694e747e67aa06d04ea813a39cb
 
 
 
