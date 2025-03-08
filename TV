@@ -2690,6 +2690,14 @@ http://code-app.web.id/redirect.php?hash=22516654c3ec313389d3ed569414e5825d1adf9
 
 
 
+#EXTINF:-1 tvg-id="" group-title="BRI LIGA 1" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://code-app.web.id/redirect.php?hash=8a04b62e58fa73e40c60eafb12aa51a7b3f72694e747e67aa06d04ea813a39cb
+
+
+
+
 =========UCL & UEL=========
 =========UCL & UEL=========
 =========UCL & UEL=========
