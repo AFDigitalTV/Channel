@@ -2682,6 +2682,28 @@ http://code-app.web.id/redirect.php?hash=0624007c502cf427d9d681b93f7368ae650d417
 
 
 
+#EXTINF:-1 tvg-id="" group-title="BRI LIGA 1" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://code-app.web.id/redirect.php?hash=22516654c3ec313389d3ed569414e5825d1adf918dc7c204b2cfbfe7420cbcdb
+
+#EXTINF:-1 tvg-id="" group-title="BRI LIGA 1" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://code-app.web.id/redirect.php?hash=8a04b62e58fa73e40c60eafb12aa51a7b3f72694e747e67aa06d04ea813a39cb
+
+#EXTINF:-1 tvg-id="" group-title="BRI LIGA 1" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://code-app.web.id/redirect.php?hash=33721c068ce18e694acdbb6218d6559e1e16394b06bed3c258aabe3d6bb4061d
+
+#EXTINF:-1 tvg-id="" group-title="BRI LIGA 1" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://code-app.web.id/redirect.php?hash=55a7d698bcc65fdc077555094d71d0a1d02255596173f0a9104c1e581c242ee1
+
+#EXTINF:-1 tvg-id="" group-title="BRI LIGA 1" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://code-app.web.id/redirect.php?hash=f8730e5ec49f6afff3488cb55eadbe9fa5b4e0acbe8df45565f8cffba4513e65
+
+
 =========UCL & UEL=========
 =========UCL & UEL=========
 =========UCL & UEL=========
