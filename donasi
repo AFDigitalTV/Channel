@@ -907,13 +907,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD
  
  
 
-#EXTINF:-1 tvg-id="idh" tvg-logo="" group-title="MOVIES" , MAXTREAM (INDIHOME)
+#EXTINF:-1 tvg-id="idh" tvg-logo="https://id.m.wikipedia.org/wiki/MAXstream#/media/Berkas%3ALogo_MAX_horizontal_on_white_.jpg" group-title="MOVIES" , MAXTREAM (INDIHOME)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
-http://code-app.web.id/play.mpd?hash=d11fa464a4335c5d5a0f296e55505c2ff03523722044a32ef528b15d0118ffc4
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+#http://code-app.web.id/play.mpd?hash=d11fa464a4335c5d5a0f296e55505c2ff03523722044a32ef528b15d0118ffc4
  
  
  
@@ -2680,8 +2680,8 @@ https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205|referrer=https://m.vidio.com
 #EXTINF:-1 tvg-id="" group-title="BRI LIGA 1" tvg-name=" INDOSIAR (EXT)" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png",INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://code-app.web.id/redirect.php?hash=0624007c502cf427d9d681b93f7368ae650d41746fff2ab58ab1d4f50acd9638
-
+#http://code-app.web.id/redirect.php?hash=0624007c502cf427d9d681b93f7368ae650d41746fff2ab58ab1d4f50acd9638
+http://108.181.56.69:8070/test_acct/ohbo1veifa4AhD/162138
 
 
 #EXTINF:-1 tvg-id="" group-title="BRI LIGA 1" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
