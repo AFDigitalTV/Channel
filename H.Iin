@@ -238,7 +238,8 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HD
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/sFFZLD7/kompas.png" group-title="Indonesia",KOMPAS TV HD
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/sFFZLD7/kompas.png" group-title="Indonesia",KOMPAS TV
+http://op-group1-swiftservehd-1.dens.tv/h/h234/02.m3u8
 #http://s7.mbahnunungonline.net/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 
@@ -2218,10 +2219,6 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 ============SPORTS=============
 
 
-#EXTINF:-1 tvg-id="beIN Sport HDTV (English).us" tvg-logo="https://iili.io/JhkQl2V.png" group-title="SPORTS",beIN Sports TV AMERIKA
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png" group-title="SPORTS",BeinSport Xtra
@@ -2253,14 +2250,7 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2d
 https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd
 
 
-#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://iili.io/JhkZqwF.png" group-title="SPORTS",Teledeporte
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
-https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
 
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="",SBS Sport
-http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 
 
 #EXTINF:0 tvg-id="kbsn" tvg-logo="https://i.ibb.co.com/FktcTY9K/Kbsn.png" group-title="SPORTS", KBSN SPORTS
