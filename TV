@@ -118,7 +118,7 @@ https://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=206
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="Indonesia",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #https://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=8237
 #https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Mentari.m3u8
 
@@ -129,7 +129,7 @@ https://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=206
 #KODIPROP:inputstream.adaptive.license_type=
 #KODIPROP:inputstream.adaptive.license_key=
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12
-http://code-app.web.id/play.mpd?hash=dae14e3a93fd3b605d5655704421fd67251195eecced2f96fe25ff4c44c8211d
+#http://code-app.web.id/play.mpd?hash=dae14e3a93fd3b605d5655704421fd67251195eecced2f96fe25ff4c44c8211d
 
 
 
