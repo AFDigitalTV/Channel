@@ -2680,8 +2680,8 @@ https://why.biz.id/Iptv/rooid.php/stream.mpd?id=205|referrer=https://m.vidio.com
 #EXTINF:-1 tvg-id="" group-title="BRI LIGA 1" tvg-name=" INDOSIAR (EXT)" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png",INDOSIAR
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://code-app.web.id/redirect.php?hash=0624007c502cf427d9d681b93f7368ae650d41746fff2ab58ab1d4f50acd9638
-
+#http://code-app.web.id/redirect.php?hash=0624007c502cf427d9d681b93f7368ae650d41746fff2ab58ab1d4f50acd9638
+http://108.181.56.69:8070/test_acct/ohbo1veifa4AhD/162138
 
 
 #EXTINF:-1 tvg-id="" group-title="BRI LIGA 1" tvg-name=" INDOSIAR" tvg-logo="https://raw.githubusercontent.com/xyz84dotcom/-/refs/heads/main/BRILiga1.png", |  INDOSIAR
