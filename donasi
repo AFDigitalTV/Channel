@@ -1268,7 +1268,7 @@ https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCfBw_uwZb_oFLyVsjWk6owQ
 https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCROKYPep-UuODNwyipe6JMw
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/yPVKBJk/Muslimtv.png"group-title="RELIGI",Muslim TV
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/yPVKBJk/Muslimtv.png" group-title="RELIGI",Muslim TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|Referer=https://www.visionplus.id/
@@ -1303,7 +1303,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856f08326c016f557be28
 
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/bv4DVQN/Aswaja.png"group-title="RELIGI",ASWAJA TV
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/bv4DVQN/Aswaja.png" group-title="RELIGI",ASWAJA TV
 #https://warningfm.github.io/dailymotion/AswajaTV.m3u8
 
 
@@ -1421,7 +1421,7 @@ https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCIrj7gqiu8uUfgMitYFzkNg
 
 
 
-#EXTINF:0 tvg-logo="https://i.ibb.co.com/RB9CtH1/tvmu.png"group-title="RELIGI",TVMU V+
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/RB9CtH1/tvmu.png" group-title="RELIGI",TVMU V+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MjIyMDViNjMtZGQwZi0zODYyLWI2M2ItOTVhNWJjMjgxMjUy
 https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyahnow/sa_dash_vmx/TVMuhammadiyahnow.mpd|referrer=https://visionplus.id
