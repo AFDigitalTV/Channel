@@ -1552,11 +1552,18 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
 
 
+#EXTINF:--1  tvg-logo="https://ia800407.us.archive.org/1/items/music-on-tv/Music%20On%21%20TV.png" group-title="MUSIC", Music ON TV!
+https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+
+
 #EXTINF:-1 tvg-id="718.astro" tvg-logo="https://iili.io/JZIQRHv.png" group-title="MUSIC",MTV Live
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd2992f9397c491497015b57cd1c8747:1dcd4c7b242b479fd9f1899120fd1f2f
 https://atemecdnbalancer-voe.sysln.id/live/eds/MTVLiveHD/mpd/MTVLiveHD.mpd
+ 
+ 
+ 
  
  
 #EXTINF:-1 tvg-id="MTV 90s - [Channel 149].id" tvg-logo="https://iili.io/JZIQ7Np.png" group-title="MUSIC",MTV 90s
