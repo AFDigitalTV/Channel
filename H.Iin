@@ -105,13 +105,13 @@ https://atemeshield1-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="Indonesia", MOJI TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
-https://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=206
+#https://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=206
 
 
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/wr5jRyZ/Moji.png" group-title="Indonesia", MOJI TV
@@ -126,7 +126,7 @@ https://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=206
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png" group-title="Indonesia",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+#https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
 
@@ -1464,6 +1464,19 @@ https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCiQFGabMZQHqKcd0xDSQ8MA
 #EXTINF:-1 group-title="RELIGI" tvg-logo="",DZIKIR CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCBN9NUto3-HXOh8YlQRjN6g|user-agent=Mozilla/5.0 (X11; Linux x86_64)
+
+
+#EXTINF:-1 group-title="RELIGI" tvg-id="tarbiyyah" tvg-logo="https://i.ibb.co.com/dshMxPb1/tarbiyyah.png",TARBIYYAH SUNNAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCM73P3XvOfj0HjC97KKYW5g
+
+
+
+
+#EXTINF:-1 group-title="RELIGI" tvg-id="tvsunnah.id" tvg-logo="https://i.ibb.co.com/XzYBgX1/tvsunnah.png",TV SUNNAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+https://streaming.yufid.com/hls/radiokitatv.m3u8
+
 
 
 #EXTINF:-114 group-title="RELIGI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWqF6mO0OTLz6JM_LR0Rk-gGSvA1ExKa4pQ&usqp=CAU",BahrainQuran
@@ -3848,9 +3861,6 @@ https://ddy6new.iosplayer.ru/ddy6/premium135/mono.m3u8
 
 
 
-#EXTINF:-1 group-title="TEST" tvg-id="tarbiyyah" tvg-logo="https://i.ibb.co.com/dshMxPb1/tarbiyyah.png",TARBIYYAH SUNNAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCM73P3XvOfj0HjC97KKYW5g
 
 
 
@@ -3864,9 +3874,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/surautv.m3u8
 
 
 
-#EXTINF:-1 group-title="TEST" tvg-id="tvsunnah.id" tvg-logo="https://i.ibb.co.com/XzYBgX1/tvsunnah.png",TV SUNNAH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.yufid.com/hls/radiokitatv.m3u8
 
 
 #EXTINF:-1 group-title="TEST" tvg-logo="",AL IMAN TV
