@@ -1309,7 +1309,8 @@ https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;useri
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="sunnahtv.sa" tvg-logo="https://i.ibb.co.com/XsHqpJk/sunnah.png",Sunnah TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCROKYPep-UuODNwyipe6JMw
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742339136/ei/4KfZZ8rUDsuRvcAPpdHEyQc/ip/36.72.90.19/id/Kt7hKHlArl8.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AccgBcPa8Tea7N1z7tlgaWsWrn3kiNBakuhvN9EPvQLWdI9gJKhw3OwhD0Yh59Wwgy0kXtg4iNty2Din/spc/_S3wKg-QjSGCQgxrYroonUD1Cil3F1VBAm5ZYmCM6YU9vPudC81-vlxcurJp5Hs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51411872/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgNm47z-BUyFi6-kWKYgs13-JtTAKpNYHb1ltbr5IqCCMCIES98imrDT_uO6ldaYR_z9bAOEgOW84wOrpFPiHt3oR6/file/index.m3u8
+#https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCROKYPep-UuODNwyipe6JMw
 
 
 #EXTINF:0 tvg-logo="https://i.ibb.co.com/yPVKBJk/Muslimtv.png" group-title="RELIGI",Muslim TV
