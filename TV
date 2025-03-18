@@ -1377,7 +1377,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/ashiiltv2.m3u8
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="rasyaad" tvg-logo="https://i.ibb.co.com/SG4bLSC/Rasyaad.png",RASYAAD TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://youtubea.cikgusuraya.workers.dev/index.m3u8?id=UCotIkyDFzztbSm21GNGsK9w|user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1742341766/ei/JrLZZ76-E73IssUP052ggAc/ip/36.72.90.19/id/t6mQuf-ICzk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51414239/txs/51414239%2C51414240/hfr/1/bui/AccgBcPDnYhIfXnsxMztsTv9E3Owvx_PhSmnAxNkBKg7IlxwDHmllZV_8oFTQpauV8_xK6dsOQnpTiqm/spc/_S3wKt6R643nkrFlYI21qQXVpu4hUZ6zOejtX2WFbkDtAY-iXCoRY1eSPoLSAJfMkp75rw/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51331020%2C51411872/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAJNwstApyHJnoYScInHhSKTCIvsgVQjXiq5xyrwH34aJAiBYk80QVoWzuHLiilZ2ww7rHtoaETTbDWYhJGH--LlV1A%3D%3D/file/index.m3u8
 
 
 
