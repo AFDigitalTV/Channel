@@ -52,7 +52,7 @@ UEFA NATIONS LEAGUE
 
 
 
-#EXTINF:0 tvg-id="SS4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="UEFA NATIONS LEAGUE", DENMARK VS PORTUGAL
+#EXTINF:0 tvg-id="SS4" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE", DENMARK VS PORTUGAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -62,7 +62,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/in
 
 
 
-#EXTINF:0 tvg-id="dazn1" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=xraq62d8vawl19o8abgigmjib_image-header_pRow_1730196750000&quality=70" group-title="UEFA NATIONS LEAGUE", KROASIA VS PRANCIS
+#EXTINF:0 tvg-id="dazn1" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE", KROASIA VS PRANCIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -74,7 +74,7 @@ https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2d
 
 
 
-#EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://i.ibb.co.com/CtHSL6T/20241123-101150.png" group-title="UEFA NATIONS LEAGUE",BELANDA VS SPANYOL
+#EXTINF:-1 tvg-id="ESPN 1.ar" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90 group-title="UEFA NATIONS LEAGUE",BELANDA VS SPANYOL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cb004fb100bd92f23793562891e3236b:b3e4e74ae2080b137e68bbd0ef8a7e05
 https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-8937c7deba83)/master.mpd
@@ -82,14 +82,7 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(8757cb0a-3584-40cd-901e-893
 
 
 
-
-#EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://i.ibb.co.com/qRhgT1D/20241123-095655.png" group-title="UEFA NATIONS LEAGUE",KROASIA VS PRANCIS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
-
-
-#EXTINF:-1 tvg-id="SKY SPORTS LIVE 2" tvg-logo="https://i.ibb.co.com/wZG3fvmr/Skysportslive.png" group-title="UEFA NATIONS LEAGUE" , ITALY VS JERMAN
+#EXTINF:-1 tvg-id="SKY SPORTS LIVE 2" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE" , ITALY VS JERMAN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_ST412_2018/1.0.0 (Sky, EM150UK, )
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
