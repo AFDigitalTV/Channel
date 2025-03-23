@@ -82,10 +82,13 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 
 
 
-#EXTINF:0 tvg-id="dazn1de" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE", HUNGARY VS TURKIYE
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
-https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+#EXTINF:0 tvg-id="DAZN 1 DE" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE", HUNGARY VS TURKIYE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c900a7eae0097e0977141b68c9bffc4:fa534e6d48eccf905a449051a5e280c8
+https://a122aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/k2dcwnlpgr/out/v1/0502dc73a24b43a79c042bf2d14f6b84/cenc.mpd
 
 
 
