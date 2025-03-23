@@ -82,10 +82,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 
 
 
-#EXTINF:0 tvg-id="dazn1" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE", KROASIA VS PRANCIS
+#EXTINF:0 tvg-id="dazn1de" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE", HUNGARY VS TURKIYE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a81ee4a694fecd6aa8a682e5024b313c:6d15568e1dab59e7202ae12e71505185
-#https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
+https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/master.mpd
 
 
 
