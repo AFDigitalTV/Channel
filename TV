@@ -52,6 +52,26 @@ UEFA NATIONS LEAGUE
 
 
 
+#EXTINF:-1 group-title="UEFA NATIONS LEAGUE" tvg-id="Sindo News TV HD - [Channel 434].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90",SLOVENIA VS SLOVAKIA
+#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
+https://dsgtq5sngxkde.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+
+#EXTINF:0 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE",SCOTLAND VS GREECE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
+
+
+
+#EXTINF:0 tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE",ICELAND VS KOSOVO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
+
+
 #EXTINF:0 tvg-id="SS4" tvg-logo="https://akcdn.detik.net.id/community/media/visual/2023/01/25/uefa-nations-league_169.jpeg?w=600&q=90" group-title="UEFA NATIONS LEAGUE", DENMARK VS PORTUGAL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
