@@ -341,15 +341,15 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="INDONESIA HD",Trans 7 (OS7+)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MRWF8K1/trans7.png" group-title="INDONESIA HD",Trans7 HD(OS7+)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/cubmu/drm.php
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
 #EXTVLCOPT:http-referrer=http://cubmu.com
-#https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
-
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd
+#https://cdnjkt913.transvision.co.id:1000
 =======================================
 
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="INDONESIA HD" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/J72JMfZ/net.png",NET TV HD
@@ -467,7 +467,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/cubmu/bintangstream/forsattv/developer.php/
 #https://cdnjkt4.transvision.co.id:1001/live/master/3/4028c685910daca60191a29de97f443a/manifest.mpd|referrer=http://cubmu.com
-
+#https://cdnjkt913.transvision.co.id:1000
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
