@@ -3235,6 +3235,16 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 
 
+#EXTINF:-1 tvg-id="" group-title="LIGA INGGRIS" tvg-name="optus 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png",OPTUS SPORT 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://dl.dropboxusercontent.com/scl/fi/mgvsode8m4rrnx6nlluuw/optus-sport-1.m3u8?rlkey=6a3415zb47ya7e2wohdf0fvu4&st=t8n7uo1b
+ 
+#EXTINF:-1 tvg-id="" group-title="LIGA INGGRIS" tvg-name="optus 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png", OPTUS SPORT 2
+https://dl.dropboxusercontent.com/scl/fi/lrrx2jtli55ugqf3909kk/optus-sport-2.m3u8?rlkey=ckr131etzf0lej2zk6s3cyemp&st=whcwztx3
+ 
+#EXTINF:-1 tvg-id="" group-title="LIGA INGGRIS" tvg-name="optus 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/800px-Premier_League_Logo.svg.png", OPTUS SPORT 3
+https://dl.dropboxusercontent.com/scl/fi/can6ym0metgp4uxtpfm4k/optus-sport-3.m3u8?rlkey=hdmsdek6an2i7yynl1wyh5tx3&st=vuzds216
+
  
  
  
