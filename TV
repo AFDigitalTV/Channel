@@ -453,7 +453,9 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/BTV.m3u
 =======================================
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="INDONESIA HD", RTV HD
-https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=1561&type=hls|user-agent=Mozilla/5.0
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/RTV.m3u8
+#https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=1561&type=hls|user-agent=Mozilla/5.0
 
 =======================================
 
@@ -4201,22 +4203,22 @@ https://dl.dropboxusercontent.com/scl/fi/zkgk9is1hz6hvvuz4y34f/now-sports-2.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=rtv
+https://why.biz.id/Iptv/oxygen.php?id=jaktv
 
 
 #EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=rajawali
+https://why.biz.id/Iptv/oxygen.php?id=nusantaratv
 
 
 #EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=rajawalitv
+https://why.biz.id/Iptv/oxygen.php?id=kidszoneplus
 
 
 #EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=RTV
+https://why.biz.id/Iptv/oxygen.php?id=ebskids
 
 
 
