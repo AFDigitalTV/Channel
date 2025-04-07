@@ -4167,4 +4167,23 @@ https://dl.dropboxusercontent.com/scl/fi/zkgk9is1hz6hvvuz4y34f/now-sports-2.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=mentari
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=mentaritv
+
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=mentari
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=rtv
+
 
