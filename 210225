@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TIMNAS",Sportstars 2 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=113
+https://dusk.biz.id/rp/index.mpd?id=113
 
 
 ==================================================Indonesia=Channels==================================================
@@ -4189,3 +4194,6 @@ https://why.biz.id/Iptv/oxygen.php?id=ktv
 https://why.biz.id/Iptv/oxygen.php?id=mdtv
 
 
+#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=beritasatu
