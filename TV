@@ -245,7 +245,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-name="ktv" tvg-logo="https://i.ibb.co.com/1JtQVKc/UGTV.png" group-title="Indonesia", KTV
+#EXTINF:-1 tvg-name="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="Indonesia", KTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/KTV.m3u8
 
@@ -469,7 +469,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 =======================================
 
-#EXTINF:-1 tvg-name="ktv" tvg-logo="https://i.ibb.co.com/1JtQVKc/UGTV.png" group-title="INDONESIA HD", KTV HD
+#EXTINF:-1 tvg-name="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="INDONESIA HD", KTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/KTV.m3u8
 
