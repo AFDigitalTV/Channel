@@ -458,7 +458,7 @@ https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=1561&type=hls|user-agent=Moz
 =======================================
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-id="beritasatu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzQqRTdxUspeh1TYS1S-V4XZO7du68FvrbqjMX2aMd1ZdQSP7h5qxk0c&s=10",BERITASATU HD
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
 https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/beritasatu.m3u8
 
 =======================================
@@ -4200,7 +4200,24 @@ https://dl.dropboxusercontent.com/scl/fi/zkgk9is1hz6hvvuz4y34f/now-sports-2.m3u8
 
 
 #EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=rtv
 
 
 #EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=rajawali
+
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=rajawalitv
+
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=RTV
+
+
+
 
