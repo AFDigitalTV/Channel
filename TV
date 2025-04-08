@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/A1hlnLA.png" group-title="TIMNAS",Sportstars 2 HD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=113
+https://dusk.biz.id/rp/index.mpd?id=113
+
+
 ==================================================Indonesia=Channels==================================================
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="Indonesia", GTV
@@ -2978,21 +2985,21 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd?n=ayoyoy
 
 
 #EXTINF:-1 tvg-id="Arena Premium 2.ba" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="UCL & UEL", ARENA 2 PREMIUM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd?n=ayoyoy
 
 
 
 #EXTINF:-1 group-title="UCL & UEL" tvg-logo="https://i.imgur.com/ooWSTU4.png",ARENA 3 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=ayoyoy
 
 
 
@@ -3000,32 +3007,32 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/
 #EXTINF:-1 group-title="UCL & UEL" tvg-logo="https://i.imgur.com/3lUvO5p.png",ARENA SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena1.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd?n=ayoyoy
 
 
 #EXTINF:-1 group-title="UCL & UEL" tvg-logo="https://i.imgur.com/5OewfNe.png",ARENA SPORT 1X2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd?n=ayoyoy
 
 
 #EXTINF:-1 group-title="UCL & UEL" tvg-logo="https://i.imgur.com/4ObWfSy.png",ARENA SPORT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena3.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd?n=ayoyoy
 
 
 #EXTINF:-1 group-title="UCL & UEL" tvg-logo="https://i.imgur.com/b8SGccn.png",ARENA SPORT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena4.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd?n=ayoyoy
 
 
 
 #EXTINF:-1 group-title="UCL & UEL" tvg-logo="https://i.imgur.com/XdKPtEq.png",ARENA SPORT 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena5.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd?n=ayoyoy
 
 
 
@@ -3089,13 +3096,13 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd?n=ayoyoy
 
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/ooWSTU4.png",ARENA 3 PREMIUM (FA CUP)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=ayoyoy
 
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" group-title="LIGA INGGRIS",BEIN SPORT 1 HD (FA CUP)
@@ -3109,32 +3116,32 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/ind
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/3lUvO5p.png",ARENA SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena1.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd?n=ayoyoy
 
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/SQlsmmH.png",ARENA SPORT 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena2.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd?n=ayoyoy
 
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/4ObWfSy.png",ARENA SPORT 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena3.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd?n=ayoyoy
 
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/b8SGccn.png",ARENA SPORT 4
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena4.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd?n=ayoyoy
 
 
 
 #EXTINF:-1 group-title="LIGA INGGRIS" tvg-logo="https://i.imgur.com/J1IeD4A.png",ARENA SPORT 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena6.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd?n=ayoyoy
 
 
 #EXTINF:0 tvg-id="PL" tvg-logo="https://i.ibb.co.com/Fb8YXK5g/Go3live.png" group-title="LIGA INGGRIS", GO3 SPORTS EXTRA 1 (FA CUP)
@@ -3399,7 +3406,7 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(80c74968-a2ef-4005-8661-045
 #EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://i.imgur.com/ooWSTU4.png",ARENA 3 PREMIUM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd?n=ayoyoy
 
 
 
@@ -3471,13 +3478,13 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/wf8usag51e/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd?n=ayoyoy
 
 
 #EXTINF:-1 group-title="SERIE A ITALIA" tvg-logo="https://i.imgur.com/J1IeD4A.png",ARENA SPORT 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena6.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd?n=ayoyoy
 
 
 #EXTINF:-1 group-title="SERIE A ITALIA" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", SETANTA LIVE 1
@@ -3704,14 +3711,14 @@ https://vcdn.mn10.entel.bo/Content/DASH/Live/Channel(5ab5db84-2235-4c10-9066-be9
 #EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://i.imgur.com/XdKPtEq.png",ARENA SPORT 5
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena5.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd?n=ayoyoy
 
 
 
 #EXTINF:-1 group-title="LIGA PRANCIS" tvg-logo="https://i.imgur.com/J1IeD4A.png",ARENA SPORT 6
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-#https://webtvstream.bhtelecom.ba/hls6/arena6.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd?n=ayoyoy
 
 
 #EXTINF:-1 tvg-id="ESPN 2.ar" tvg-logo="https://i.ibb.co.com/qRhgT1D/20241123-095655.png" group-title="LIGA PRANCIS",ESPN 2
@@ -4101,7 +4108,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd?n=frobinsxmeyy
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd?n=fayoyoy
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="TEST",ARENA 1 PREMIUM FHD
