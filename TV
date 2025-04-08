@@ -4220,5 +4220,20 @@ https://why.biz.id/Iptv/oxygen.php?id=kidszoneplus
 https://why.biz.id/Iptv/oxygen.php?id=ebskids
 
 
+#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=deikids
+
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=deikidstv
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://why.biz.id/Iptv/oxygen.php?id=jitv
+
 
 
