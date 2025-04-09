@@ -72,7 +72,7 @@ https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="Indonesia",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/ChineseDrama.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Viva.m3u8
 
 =======================================
 
@@ -247,7 +247,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 
 #EXTINF:-1 tvg-name="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="Indonesia", KTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/KTV.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Ktivi.m3u8
 
 =======================================
 =================================================Indonesia=Channels=HD================================================
@@ -339,13 +339,13 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Mentari.m3
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png" group-title="INDONESIA HD" tvg-id="ANTV",  ANTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/ANTV.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/AN.m3u8
 
 =======================================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="INDONESIA HD",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/ChineseDrama.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Viva.m3u8
 
 =======================================
 
@@ -448,20 +448,20 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b
 
 #EXTINF:-1 tvg-id="BTV" group-title="INDONESIA HD" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://i.ibb.co.com/HXrk8wY/btv.png", BTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/BTV.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Btivi.m3u8
 
 =======================================
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/8jxKzZn/Rtv.png" group-title="INDONESIA HD", RTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/RTV.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Rtivi.m3u8
 #https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=1561&type=hls|user-agent=Mozilla/5.0
 
 =======================================
 
 #EXTINF:-1 group-title="INDONESIA HD" tvg-id="beritasatu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIzQqRTdxUspeh1TYS1S-V4XZO7du68FvrbqjMX2aMd1ZdQSP7h5qxk0c&s=10",BERITASATU HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/beritasatu.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/berita1.m3u8
 
 =======================================
 
@@ -479,7 +479,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 tvg-name="ktv" tvg-logo="https://upload.wikimedia.org/wikipedia/id/2/21/KTV_28UHF.png" group-title="INDONESIA HD", KTV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/KTV.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Ktivi.m3u8
 
 =======================================
 =======================================================DAERAH======================================================
@@ -1135,7 +1135,7 @@ https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Mentari.m3
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/gVBgWFJ/vtv.png" group-title="KIDS",VTV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/ChineseDrama.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Viva.m3u8
 
 
 
@@ -1158,7 +1158,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://i.ibb.co.com/L0gjZdq/funplanet.png",FUN PLANET
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/Planetfun.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/Planfun.m3u8
 
 
 
@@ -1531,7 +1531,7 @@ https://video1.earthcam.com/myearthcam/641f889a7774a38d5fc93dc76c4aeded.flv/play
 
 #EXTINF:-1 group-title="RELIGI"  tvg-logo="https://i.ibb.co.com/6JTJfLT/deikids.png",DEI KIDS TV
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/PL/dekids.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/dekid.m3u8
 #https://e.siar.us/live/deikidstv.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64)
 
 
