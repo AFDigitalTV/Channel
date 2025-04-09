@@ -59,7 +59,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="Indonesia" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png",MENTARI TV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Mentari.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
 
 =======================================
 
@@ -333,7 +333,7 @@ https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="INDONESIA HD" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png",MENTARI TV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Mentari.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
 
 =======================================
 
@@ -1111,7 +1111,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
 https://mifntechnology.github.io/siaranMy/channels/DuniaSinema/index.m3u8
 
 
-
 #EXTINF:-1 tvg-id="etv1" tvg-logo="" group-title="MOVIES",ETV BIOSKOP 01
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298526
 
@@ -1126,7 +1125,6 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298514
 
 #EXTINF:-1 tvg-id="etv4" tvg-logo="" group-title="MOVIES",ETV BIOSKOP 04
 http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
-
 
 
 <======= Kids Channels ========>
@@ -1146,8 +1144,7 @@ http://iptvtree.net:8080/test_acct/ohbo1veifa4AhD/298529
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="KIDS" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png",MENTARI TV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://raw.githubusercontent.com/AFDigitalTV/Channel/refs/heads/main/Mentari.m3u8
-
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
 
 
 
