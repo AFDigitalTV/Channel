@@ -2822,6 +2822,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="BRI LIGA 1", BRI LIGA 1
 https://bf.jllivese.com/live/5004240_hd01.m3u8?txSecret=e2efd8942355e0d78376a0d509bac379&txTime=67f7b2bd
 
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
 
 
 #EXTINF:0 tvg-id="id" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="BRI LIGA 1", LIGA 1
