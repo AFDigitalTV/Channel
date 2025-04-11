@@ -2806,7 +2806,9 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 
 =======BRI LIGA 1======
 
-
+#EXTINF:-1 group-title="BRI LIGA 1" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU",psis vs persik
+#EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+https://fhlsport121.fhs36f7.xyz/token-LUApybfFLqeG7DB9yvY6mm3WlJvRhijjbnP4lPdHRWGms7eZHUFdDo4vqhRKW0pJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/qr1s4o34nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_597740.m3u8
 
 #EXTINF:-1 tvg-id="SS3" group-title="BRI LIGA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" ch-number="114", SPORTSTARS 3
 #KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
@@ -2820,9 +2822,12 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 
 
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="Indosiar HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU" group-title="BRI LIGA 1", BRI LIGA 1
-https://bf.jllivese.com/live/5004240_hd01.m3u8?txSecret=e2efd8942355e0d78376a0d509bac379&txTime=67f7b2bd
+#https://bf.jllivese.com/live/5004240_hd01.m3u8?txSecret=e2efd8942355e0d78376a0d509bac379&txTime=67f7b2bd
 
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
+
+
+
 
 
 #EXTINF:0 tvg-id="id" tvg-logo="https://i.ibb.co.com/H7fzV5K/indosiar.png" group-title="BRI LIGA 1", LIGA 1
