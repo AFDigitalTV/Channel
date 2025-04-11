@@ -12,7 +12,8 @@
 #http://43.152.23.41/play.cbalive.weibisai.com/live/3873152001738061_AiSD.m3u8?txSecret=f408bd031b1fdbf4785993a237f6af0c&txTime=67F9E540
 
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="LIVE EVENT",MY| ASTRO BADMINTON HD
-http://extraott.com:900/live/3162523972/3791698850/401600423.m3u8
+#http://extraott.com:900/live/3162523972/3791698850/401600423.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON 2 HD" tvg-logo="https://lo1.in/MALAY/flag.png" group-title="LIVE EVENT",MY| ASTRO BADMINTON 2 HD
 #http://extraott.com:900/live/3162523972/3791698850/401600425.m3u8
 
