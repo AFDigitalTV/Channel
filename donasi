@@ -2808,7 +2808,7 @@ https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:2
 
 #EXTINF:-1 group-title="BRI LIGA 1" tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCfERdOLcci58Ij_qjBqcALH5J553RxIIxYg&usqp=CAU",psis vs persik
 #EXTVLCOPT:http-referrer=https://ben.quietlywheat23.shop/
-https://fhlsport121.fhs36f7.xyz/token-LUApybfFLqeG7DB9yvY6mm3WlJvRhijjbnP4lPdHRWGms7eZHUFdDo4vqhRKW0pJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/qr1s4o34nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_597740.m3u8
+#https://fhlsport121.fhs36f7.xyz/token-LUApybfFLqeG7DB9yvY6mm3WlJvRhijjbnP4lPdHRWGms7eZHUFdDo4vqhRKW0pJBCeIxTNhkA%3D%3Da/cfall/s2001/v3b/qr1s4o34nUE0pQbiY3EmAmphZ3umqT0ho25y/super/3x_597740.m3u8
 
 #EXTINF:-1 tvg-id="SS3" group-title="BRI LIGA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" ch-number="114", SPORTSTARS 3
 #KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
@@ -2816,8 +2816,6 @@ https://fhlsport121.fhs36f7.xyz/token-LUApybfFLqeG7DB9yvY6mm3WlJvRhijjbnP4lPdHRW
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd|referrer=https://visionplus.id/
-
-
 
 
 
