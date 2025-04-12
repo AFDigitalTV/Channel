@@ -4271,32 +4271,6 @@ https://jandatv.online/memfs/e76ee12a-47ad-42a6-a189-dbedda4b3cfd_output_0.m3u8?
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=121
-https://dusk.biz.id/rp/index.mpd?id=121
-
-
-#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=116
-https://dusk.biz.id/rp/index.mpd?id=116
-
-
-#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=117
-https://dusk.biz.id/rp/index.mpd?id=117
-
-
-#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=118
-https://dusk.biz.id/rp/index.mpd?id=118
 
 
 #EXTINF:-1 group-title="TEST" tvg-id="" tvg-logo="https://i.ibb.co.com/2dNWNWt/live.gif",batc
