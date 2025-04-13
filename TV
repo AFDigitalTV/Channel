@@ -2316,9 +2316,14 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=115
-https://dusk.biz.id/rp/index.mpd?id=115
+#https://dusk.biz.id/rp/index.mpd?id=115
 
 
+#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="SPORTS INDO",Soccer Channel
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://sangkatv.xyz/kode/vision/media.php?id=115&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|referrer=https://visionplus.id/
 
 
 
@@ -2342,7 +2347,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rp/drm.php?id=113
-https://dusk.biz.id/rp/index.mpd?id=113
+#https://dusk.biz.id/rp/index.mpd?id=113
 
 
 
