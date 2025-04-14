@@ -176,7 +176,8 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b
 #KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
-https://dsgtq5sngxkde.cloudfront.net/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+#https://dsgtq5sngxkde.cloudfront.net/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+http://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8|user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0&referrer=https://dens.tv/
 
 =======================================
 
