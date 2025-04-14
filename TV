@@ -652,12 +652,14 @@ https://e.siar.us/live/sampit-tv.m3u8
 
 
 
-
+#EXTINF:-1  tvg-id="JAKTV.id" group-title="DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11y1uTmD-dGr2jCPqrxjZzpcmkMCFih-jsQ&usqp=CAU",JakTV
+#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/JAK.m3u8
 
 
 #EXTINF:-1  tvg-id="JAKTV.id" group-title="DAERAH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR11y1uTmD-dGr2jCPqrxjZzpcmkMCFih-jsQ&usqp=CAU",JakTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Jak_tv
+#http://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Jak_tv
 
 
 
@@ -4269,9 +4271,7 @@ https://dl.dropboxusercontent.com/scl/fi/zkgk9is1hz6hvvuz4y34f/now-sports-2.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
-#EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-https://why.biz.id/Iptv/oxygen.php?id=jaktv
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="TEST",TEST CHANNEL
