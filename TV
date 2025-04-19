@@ -4344,8 +4344,5 @@ https://jandatv.online/memfs/e76ee12a-47ad-42a6-a189-dbedda4b3cfd_output_0.m3u8?
 https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd?n=ayoyoy
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TEST", Test ch
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
 
