@@ -3448,6 +3448,8 @@ https://saruman1.tharen.cfd/puk1/usergenrx0cir27aq.m3u8|referrer=https://saruman
 https://arwen1.panaka.cfd/puk2/usergenrnd0clv03fyt.m3u8|referrer=https://saruman1.tharen.cfd/000/
 
 
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIGA INGGRIS",POKER TV
 https://hls.pokertvfa.live/hls/stream.m3u8
 
@@ -3588,8 +3590,15 @@ https://aka-live1-ott.izzigo.tv/2/out/u/dash/SKY-SPORTS-16-HD/default.mpd
 
 
 
+#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS30BVkOUYLhg9_G_xLLDuF5n-meN5MR-ljFA&s", PRIMA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
+https://iron1.jarvisx.cfd/puk3/usergenrx4t0l8sybkr.m3u8|referrer=https://saruman1.tharen.cfd/000/
 
-
+#EXTINF:-1 group-title="LIGA SPANYOL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBQ6XcGR2MjajEPVmLu42QAjLPJbF3Er3OPg&s", PRIMA SPORT 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/
+#https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8|referrer=https://saruman1.tharen.cfd/000/
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="LIGA SPANYOL",POKER TV
