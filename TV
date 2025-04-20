@@ -53,7 +53,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 
 #EXTINF:-1 tvg-id="MentariTV.id" group-title="Indonesia" tvg-name="Mentari TV" tvg-logo="https://i.ibb.co.com/8XRWRcH/mentari.png",MENTARI TV HD
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9 (Linux;Android 10) ExoPlayerLib/2.12.2
-#https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
+https://raw.githubusercontent.com/AFDigitalTV/AFD/refs/heads/main/PL/mentari.m3u8
 
 =======================================
 
@@ -2273,6 +2273,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/manifest.mpd?id=5
 https://d25tgymtnqzu8s.cloudfront.net/smil:negara/manifest.mpd?id=8
 
 
+free
+
 
 
 
@@ -2527,7 +2529,7 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony ten 2" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="SPORTS", SONY TEN 2
+#EXTINF:-1 tvg-id="Sony ten 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="SPORTS", SONY TEN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
@@ -2540,7 +2542,7 @@ https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony ten 5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Six_HD.png" group-title="SPORTS", SONY TEN 5
+#EXTINF:-1 tvg-id="Sony ten 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/18/Sony_Sports_Ten_5.png" group-title="SPORTS", SONY TEN 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
@@ -4362,7 +4364,5 @@ https://jandatv.online/memfs/e76ee12a-47ad-42a6-a189-dbedda4b3cfd_output_0.m3u8?
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd?n=ayoyoy
-
-
 
 
